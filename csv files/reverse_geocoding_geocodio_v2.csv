@@ -1,0 +1,1007 @@
+,lat.,long.,Accuracy Score,Accuracy Type,Number,Street,City,State,County,Zip
+821,37.773854,-122.477838,1,rooftop,747,19th Ave,San Francisco,CA,San Francisco County,94121
+822,37.804917,-122.442132,1,rooftop,3824,Scott St,San Francisco,CA,San Francisco County,94123
+823,37.802411,-122.44334,1,rooftop,3544,Divisadero St,San Francisco,CA,San Francisco County,94123
+824,37.779753,-122.482657,1,rooftop,415,23rd Ave,San Francisco,CA,San Francisco County,94121
+825,37.7864,-122.3892,1,rooftop,501,Beale St,San Francisco,CA,San Francisco County,94105
+826,37.77836,-122.48031,1,nearest_street,500,21st Ave,San Francisco,CA,San Francisco County,94121
+827,37.763087,-122.398519,1,rooftop,251,Arkansas St,San Francisco,CA,San Francisco County,94107
+828,37.755889,-122.389058,1,rooftop,2688,3rd St,San Francisco,CA,San Francisco County,94107
+830,37.7856,-122.4358,1,rooftop,2161,Sutter St,San Francisco,CA,San Francisco County,94115
+832,37.786106,-122.393908,1,rooftop,50,Lansing St,San Francisco,CA,San Francisco County,94105
+834,37.797287,-122.415291,1,nearest_street,1,Glover St,San Francisco,CA,San Francisco County,94109
+835,37.761747,-122.475924,1,nearest_street,1300,Judah St,San Francisco,CA,San Francisco County,94122
+836,37.761747,-122.475924,1,nearest_street,1300,Judah St,San Francisco,CA,San Francisco County,94122
+837,37.719,-122.4096,1,rooftop,893,Colby St,San Francisco,CA,San Francisco County,94134
+838,37.7195,-122.4411,1,rooftop,20,Junior Ter,San Francisco,CA,San Francisco County,94112
+839,37.736388,-122.428977,1,nearest_street,200,Mateo St,San Francisco,CA,San Francisco County,94131
+840,37.7441,-122.4863,1,rooftop,2310,29th Ave,San Francisco,CA,San Francisco County,94116
+841,37.7593,-122.4836,1,rooftop,2115,Kirkham St,San Francisco,CA,San Francisco County,94122
+842,37.792252,-122.407513,1,nearest_street,781,California St,San Francisco,CA,San Francisco County,94108
+843,37.775471,-122.502671,1,nearest_street,4100,Balboa St,San Francisco,CA,San Francisco County,94121
+844,37.7593,-122.4836,1,rooftop,2115,Kirkham St,San Francisco,CA,San Francisco County,94122
+846,37.756249,-122.419942,1,rooftop,39,Bartlett St,San Francisco,CA,San Francisco County,94110
+847,37.795016,-122.436761,1,nearest_street,2800,Steiner St,San Francisco,CA,San Francisco County,94123
+848,37.774305,-122.427174,1,rooftop,483,Oak St,San Francisco,CA,San Francisco County,94102
+849,37.773554,-122.503609,1,nearest_street,800,43rd Ave,San Francisco,CA,San Francisco County,94121
+850,37.8031,-122.425759,1,rooftop,1261,Francisco St,San Francisco,CA,San Francisco County,94123
+851,37.787035,-122.456039,1,rooftop,3848,Sacramento St,San Francisco,CA,San Francisco County,94118
+852,37.749711,-122.406997,1,rooftop,2810,26th St,San Francisco,CA,San Francisco County,94110
+853,37.730624,-122.368035,0.99,rooftop,578,Hudson Ave,San Francisco,CA,San Francisco County,94124
+854,37.729838,-122.400274,1,nearest_street,2500,Phelps St,San Francisco,CA,San Francisco County,94124
+855,37.71964,-122.471652,1,nearest_street,1000,Garfield St,San Francisco,CA,San Francisco County,94132
+856,37.773547,-122.409718,1,rooftop,350,8th St,San Francisco,CA,San Francisco County,94103
+857,37.791017,-122.399149,1,nearest_street,501,Market St,San Francisco,CA,San Francisco County,94105
+858,37.78742,-122.393124,1,rooftop,338,Fremont St,San Francisco,CA,San Francisco County,94105
+859,37.912849,-122.342265,1,rooftop,215,Marina Lakes Dr,Richmond,CA,Contra Costa County,94804
+860,37.735307,-122.423422,1,rooftop,67,Crescent Ave,San Francisco,CA,San Francisco County,94110
+870,37.801506,-122.423236,1,rooftop,1305,Lombard St,San Francisco,CA,San Francisco County,94109
+871,37.787254,-122.424075,1,rooftop,1440,Sutter St,San Francisco,CA,San Francisco County,94109
+872,37.778346,-122.435079,1,rooftop,1398,McAllister St,San Francisco,CA,San Francisco County,94115
+873,37.772525,-122.427158,1,nearest_street,300,Haight St,San Francisco,CA,San Francisco County,94102
+874,37.777507,-122.433085,1,rooftop,898,Steiner St,San Francisco,CA,San Francisco County,94117
+875,37.77089,-122.42514,1,rooftop,1896,Market St,San Francisco,CA,San Francisco County,94102
+876,37.77089,-122.42514,1,rooftop,1896,Market St,San Francisco,CA,San Francisco County,94102
+877,37.790836,-122.408925,1,rooftop,655,Powell St,San Francisco,CA,San Francisco County,94108
+878,37.791205,-122.40806,1,nearest_street,722,Pine St,San Francisco,CA,San Francisco County,94108
+879,37.752393,-122.425264,1,rooftop,1074,Dolores St,San Francisco,CA,San Francisco County,94114
+881,37.716788,-122.475918,1,nearest_street,300,Gonzalez Dr,San Francisco,CA,San Francisco County,94132
+882,37.76289,-122.428509,1,nearest_street,3700,17th St,San Francisco,CA,San Francisco County,94114
+883,37.761188,-122.43003,1,rooftop,3876,18th St,San Francisco,CA,San Francisco County,94114
+884,37.804917,-122.442132,1,rooftop,3824,Scott St,San Francisco,CA,San Francisco County,94123
+885,37.794991,-122.407168,1,rooftop,833,Washington St,San Francisco,CA,San Francisco County,94108
+886,37.771804,-122.426621,1,rooftop,200,Buchanan St,San Francisco,CA,San Francisco County,94102
+887,37.737551,-122.425111,1,nearest_street,16,Highland Ave,San Francisco,CA,San Francisco County,94110
+888,37.716788,-122.475918,1,nearest_street,300,Gonzalez Dr,San Francisco,CA,San Francisco County,94132
+890,37.7725,-122.4147,1,rooftop,245,11th St,San Francisco,CA,San Francisco County,94103
+891,37.760358,-122.464981,1,nearest_street,1500,8th Ave,San Francisco,CA,San Francisco County,94122
+892,37.802559,-122.407521,1,rooftop,475,Greenwich St,San Francisco,CA,San Francisco County,94133
+897,37.792204,-122.415377,1,rooftop,1362,Sacramento St,San Francisco,CA,San Francisco County,94109
+898,37.715011,-122.472991,1,nearest_street,101,Font Blvd,San Francisco,CA,San Francisco County,94132
+899,37.791456,-122.392342,1,rooftop,88,Howard St,San Francisco,CA,San Francisco County,94105
+900,37.782383,-122.460136,1,rooftop,321,2nd Ave,San Francisco,CA,San Francisco County,94118
+902,37.791859,-122.425177,1,rooftop,1945,Clay St,San Francisco,CA,San Francisco County,94109
+903,37.778992,-122.461166,1,rooftop,509,3rd Ave,San Francisco,CA,San Francisco County,94118
+904,37.782383,-122.460136,1,rooftop,321,2nd Ave,San Francisco,CA,San Francisco County,94118
+905,37.75364,-122.466658,1,rooftop,1852,10th Ave,San Francisco,CA,San Francisco County,94122
+906,37.75364,-122.466658,1,rooftop,1852,10th Ave,San Francisco,CA,San Francisco County,94122
+907,37.794458,-122.426045,1,rooftop,1885,Pacific Ave,San Francisco,CA,San Francisco County,94109
+908,37.770675,-122.449203,1,rooftop,1705,Page St,San Francisco,CA,San Francisco County,94117
+909,37.796797,-122.398211,1,rooftop,440,Davis Ct,San Francisco,CA,San Francisco County,94111
+910,37.719823,-122.462253,1,rooftop,582,Orizaba Ave,San Francisco,CA,San Francisco County,94112
+911,37.7441,-122.4863,1,rooftop,2310,29th Ave,San Francisco,CA,San Francisco County,94116
+913,37.787321,-122.431108,1,rooftop,2056,Bush St,San Francisco,CA,San Francisco County,94115
+914,37.742655,-122.486413,1,rooftop,2394,29th Ave,San Francisco,CA,San Francisco County,94116
+915,37.793428,-122.26913,1,rooftop,202,Madison St,Oakland,CA,Alameda County,94607
+918,37.785248,-122.439873,1,nearest_street,1700,Divisadero St,San Francisco,CA,San Francisco County,94115
+919,37.761582,-122.438056,1,rooftop,2645,Market St,San Francisco,CA,San Francisco County,94114
+920,37.789952,-122.425616,1,nearest_street,1900,California St,San Francisco,CA,San Francisco County,94109
+923,37.772434,-122.39726,1,nearest_street,,I 280,San Francisco,CA,San Francisco County,94158
+927,37.781031,-122.42044,1,nearest_street,600,Van Ness Ave,San Francisco,CA,San Francisco County,94102
+928,37.789457,-122.444119,1,nearest_street,2000,Baker St,San Francisco,CA,San Francisco County,94115
+930,37.761691,-122.39188,1,rooftop,690,Indiana St,San Francisco,CA,San Francisco County,94107
+932,37.762575,-122.44602,1,rooftop,350,Upper Ter,San Francisco,CA,San Francisco County,94117
+933,37.77727,-122.411388,1,rooftop,664,Natoma St,San Francisco,CA,San Francisco County,94103
+937,37.787295,-122.392719,1,rooftop,350,Fremont St,San Francisco,CA,San Francisco County,94105
+938,37.787703,-122.391971,1,rooftop,388,Beale St,San Francisco,CA,San Francisco County,94105
+939,37.775048,-122.449638,1,rooftop,21,Clayton St,San Francisco,CA,San Francisco County,94117
+942,37.776036,-122.499486,1,rooftop,683,39th Ave,San Francisco,CA,San Francisco County,94121
+943,37.794895,-122.429989,1,nearest_street,2000,Broadway St,San Francisco,CA,San Francisco County,94115
+944,37.762614,-122.445947,1,rooftop,360,Upper Ter,San Francisco,CA,San Francisco County,94117
+945,37.773906,-122.413938,1,rooftop,239,10th St,San Francisco,CA,San Francisco County,94103
+946,37.784994,-122.464572,1,nearest_street,4301,California St,San Francisco,CA,San Francisco County,94118
+947,37.779924,-122.492816,1,rooftop,6838,Geary Blvd,San Francisco,CA,San Francisco County,94121
+948,37.789529,-122.413728,1,nearest_street,1000,Bush St,San Francisco,CA,San Francisco County,94109
+949,37.772649,-122.415002,1,nearest_street,239,11th St,San Francisco,CA,San Francisco County,94103
+950,37.8048,-122.420805,1,rooftop,822,Bay St,San Francisco,CA,San Francisco County,94109
+951,37.741585,-122.4472,1,rooftop,27,Encline Ct,San Francisco,CA,San Francisco County,94127
+952,37.786413,-122.403274,1,rooftop,50,3rd St,San Francisco,CA,San Francisco County,94103
+953,37.770675,-122.449203,1,rooftop,1705,Page St,San Francisco,CA,San Francisco County,94117
+954,37.753642,-122.411993,1,rooftop,2731,Harrison St,San Francisco,CA,San Francisco County,94110
+955,37.792217,-122.429447,1,nearest_street,2200,Washington St,San Francisco,CA,San Francisco County,94115
+956,37.789568,-122.413425,1,rooftop,850,Jones St,San Francisco,CA,San Francisco County,94109
+957,37.792217,-122.429447,1,nearest_street,2200,Washington St,San Francisco,CA,San Francisco County,94115
+958,37.8002,-122.4091,1,rooftop,1560,Stockton St,San Francisco,CA,San Francisco County,94133
+960,37.800638,-122.407584,1,nearest_street,1500,Grant Ave,San Francisco,CA,San Francisco County,94133
+961,37.8002,-122.4091,1,rooftop,1560,Stockton St,San Francisco,CA,San Francisco County,94133
+965,37.771804,-122.426621,1,rooftop,200,Buchanan St,San Francisco,CA,San Francisco County,94102
+966,37.763689,-122.474241,1,rooftop,1500,Irving St,San Francisco,CA,San Francisco County,94122
+967,37.793444,-122.416201,1,rooftop,1314,Leavenworth St,San Francisco,CA,San Francisco County,94109
+970,37.717665,-122.440107,1,nearest_street,5051,Mission St,San Francisco,CA,San Francisco County,94112
+971,37.797603,-122.435594,1,rooftop,3038,Fillmore St,San Francisco,CA,San Francisco County,94123
+972,37.756988,-122.419689,1,nearest_street,3225,21st St,San Francisco,CA,San Francisco County,94110
+973,37.717866,-122.440359,1,rooftop,33,Seneca Ave,San Francisco,CA,San Francisco County,94112
+982,37.803601,-122.444419,1,rooftop,2149,Beach St,San Francisco,CA,San Francisco County,94123
+990,37.783641,-122.47854,1,rooftop,226,19th Ave,San Francisco,CA,San Francisco County,94121
+1008,37.770008,-122.446934,1,nearest_street,600,Ashbury St,San Francisco,CA,San Francisco County,94117
+1009,37.77541,-122.46298,1,rooftop,703,5th Ave,San Francisco,CA,San Francisco County,94118
+1010,37.77541,-122.46298,1,rooftop,703,5th Ave,San Francisco,CA,San Francisco County,94118
+1011,37.764311,-122.454217,1,nearest_street,1400,Willard St,San Francisco,CA,San Francisco County,94117
+1015,37.772108,-122.430434,1,nearest_street,300,Fillmore St,San Francisco,CA,San Francisco County,94117
+1016,37.794243,-122.42817,1,rooftop,2000,Pacific Ave,San Francisco,CA,San Francisco County,94109
+1018,37.780321,-122.493346,1,rooftop,472,33rd Ave,San Francisco,CA,San Francisco County,94121
+1022,37.749391,-122.427628,1,rooftop,112,Clipper St,San Francisco,CA,San Francisco County,94114
+1023,37.803969,-122.435031,1,rooftop,1690,N Point St,San Francisco,CA,San Francisco County,94123
+1028,37.789046,-122.417541,1,rooftop,1209,Bush St,San Francisco,CA,San Francisco County,94109
+1029,37.789046,-122.417541,1,rooftop,1209,Bush St,San Francisco,CA,San Francisco County,94109
+1030,37.739869,-122.424147,1,nearest_street,5,Randall St,San Francisco,CA,San Francisco County,94131
+1031,37.787335,-122.463662,1,rooftop,66,5th Ave,San Francisco,CA,San Francisco County,94118
+1035,37.749374,-122.427649,1,rooftop,112,Clipper St,San Francisco,CA,San Francisco County,94114
+1037,37.723347,-122.399652,1,rooftop,449,Paul Ave,San Francisco,CA,San Francisco County,94124
+1038,37.769362,-122.450901,1,rooftop,1715,Haight St,San Francisco,CA,San Francisco County,94117
+1039,37.78518,-122.435781,1,rooftop,2000,Post St,San Francisco,CA,San Francisco County,94115
+1040,37.77253,-122.39312,1,rooftop,690,Long Bridge St,San Francisco,CA,San Francisco County,94158
+1043,37.77526,-122.424388,1,rooftop,331,Octavia St,San Francisco,CA,San Francisco County,94102
+1046,37.789422,-122.437319,1,nearest_street,2100,Pierce St,San Francisco,CA,San Francisco County,94115
+1047,37.757903,-122.466958,1,rooftop,1617,10th Ave,San Francisco,CA,San Francisco County,94122
+1053,37.769428,-122.403979,1,nearest_street,2,Division St,San Francisco,CA,San Francisco County,94103
+1056,37.772434,-122.39726,1,nearest_street,,I 280,San Francisco,CA,San Francisco County,94158
+1057,37.780917,-122.399457,1,rooftop,788,Harrison St,San Francisco,CA,San Francisco County,94107
+1058,37.772434,-122.39726,1,nearest_street,,I 280,San Francisco,CA,San Francisco County,94158
+1060,37.780917,-122.399457,1,rooftop,788,Harrison St,San Francisco,CA,San Francisco County,94107
+1062,37.772434,-122.39726,1,nearest_street,,I 280,San Francisco,CA,San Francisco County,94158
+1064,37.772434,-122.39726,1,nearest_street,,I 280,San Francisco,CA,San Francisco County,94158
+1067,37.772434,-122.39726,1,nearest_street,,I 280,San Francisco,CA,San Francisco County,94158
+1069,37.787295,-122.392719,1,rooftop,350,Fremont St,San Francisco,CA,San Francisco County,94105
+1076,37.787295,-122.392719,1,rooftop,350,Fremont St,San Francisco,CA,San Francisco County,94105
+1077,37.752242,-122.444618,1,rooftop,38,Gardenside Dr,San Francisco,CA,San Francisco County,94131
+1079,37.769428,-122.403979,1,nearest_street,2,Division St,San Francisco,CA,San Francisco County,94103
+1083,37.75954,-122.462864,1,rooftop,3,Locksley Ave,San Francisco,CA,San Francisco County,94122
+1085,37.787836,-122.393396,1,rooftop,353,Folsom St,San Francisco,CA,San Francisco County,94105
+1086,37.7694,-122.3867,1,rooftop,550,Terry A Francois Blvd,San Francisco,CA,San Francisco County,94158
+1087,37.7694,-122.3867,1,rooftop,550,Terry A Francois Blvd,San Francisco,CA,San Francisco County,94158
+1088,37.75029,-122.434216,1,rooftop,1400,Castro St,San Francisco,CA,San Francisco County,94114
+1089,37.766726,-122.438291,1,nearest_street,144,Buena Vista Ter,San Francisco,CA,San Francisco County,94117
+1093,37.7195,-122.4411,1,rooftop,20,Junior Ter,San Francisco,CA,San Francisco County,94112
+1094,37.786649,-122.413799,1,rooftop,630,Geary St,San Francisco,CA,San Francisco County,94109
+1095,37.7694,-122.3867,1,rooftop,550,Terry A Francois Blvd,San Francisco,CA,San Francisco County,94158
+1098,37.7864,-122.3892,1,rooftop,501,Beale St,San Francisco,CA,San Francisco County,94105
+1099,37.745296,-122.440088,1,nearest_street,5200,Diamond Heights Blvd,San Francisco,CA,San Francisco County,94131
+1102,37.77351,-122.409599,1,rooftop,350,8th St,San Francisco,CA,San Francisco County,94103
+1104,37.796014,-122.430385,1,rooftop,2000,Vallejo St,San Francisco,CA,San Francisco County,94123
+1105,37.7917,-122.4186,1,rooftop,1577,Sacramento St,San Francisco,CA,San Francisco County,94109
+1106,37.786649,-122.413799,1,rooftop,630,Geary St,San Francisco,CA,San Francisco County,94109
+1107,37.781111,-122.462139,1,nearest_street,4000,Geary Blvd,San Francisco,CA,San Francisco County,94118
+1109,37.788845,-122.419161,1,rooftop,1300,Bush St,San Francisco,CA,San Francisco County,94109
+1113,37.786649,-122.413799,1,rooftop,630,Geary St,San Francisco,CA,San Francisco County,94109
+1114,37.78983,-122.418843,1,nearest_street,1300,Larkin St,San Francisco,CA,San Francisco County,94109
+1115,37.769239,-122.420247,1,rooftop,1742,Mission St,San Francisco,CA,San Francisco County,94103
+1116,37.772721,-122.391183,1,rooftop,1201,4th St,San Francisco,CA,San Francisco County,94158
+1117,37.748362,-122.429346,1,nearest_street,4000,26th St,San Francisco,CA,San Francisco County,94131
+1119,37.790459,-122.429092,1,nearest_street,2200,Sacramento St,San Francisco,CA,San Francisco County,94115
+1120,37.786649,-122.413799,1,rooftop,630,Geary St,San Francisco,CA,San Francisco County,94109
+1122,37.721206,-122.483023,1,nearest_street,2,Vidal Dr,San Francisco,CA,San Francisco County,94132
+1124,37.723347,-122.399652,1,rooftop,449,Paul Ave,San Francisco,CA,San Francisco County,94124
+1128,37.785209,-122.417505,1,rooftop,784,Ofarrell St,San Francisco,CA,San Francisco County,94109
+1129,37.753939,-122.440914,1,rooftop,2,Hoffman Ave,San Francisco,CA,San Francisco County,94114
+1130,37.787424,-122.421154,1,rooftop,1285,Sutter St,San Francisco,CA,San Francisco County,94109
+1132,37.77208,-122.445717,1,nearest_street,1000,Masonic Ave,San Francisco,CA,San Francisco County,94117
+1135,37.787424,-122.421154,1,rooftop,1285,Sutter St,San Francisco,CA,San Francisco County,94109
+1137,37.757754,-122.393133,1,rooftop,699,Pennsylvania Ave,San Francisco,CA,San Francisco County,94107
+1139,37.793428,-122.26913,1,rooftop,202,Madison St,Oakland,CA,Alameda County,94607
+1141,37.780917,-122.399457,1,rooftop,788,Harrison St,San Francisco,CA,San Francisco County,94107
+1142,37.780917,-122.399457,1,rooftop,788,Harrison St,San Francisco,CA,San Francisco County,94107
+1144,37.7621,-122.3971,1,rooftop,331,Connecticut St,San Francisco,CA,San Francisco County,94107
+1145,37.763529,-122.474016,1,rooftop,1301,16th Ave,San Francisco,CA,San Francisco County,94122
+1146,37.7621,-122.3971,1,rooftop,331,Connecticut St,San Francisco,CA,San Francisco County,94107
+1148,37.792507,-122.408767,1,rooftop,105,Miles St,San Francisco,CA,San Francisco County,94108
+1149,37.75124,-122.425032,1,rooftop,1149,Dolores St,San Francisco,CA,San Francisco County,94110
+1150,37.776541,-122.417501,1,nearest_street,1401,Market St,San Francisco,CA,San Francisco County,94103
+1151,37.754571,-122.401589,1,nearest_street,2200,23rd St,San Francisco,CA,San Francisco County,94107
+1154,37.744352,-122.488678,1,nearest_street,2000,Santiago St,San Francisco,CA,San Francisco County,94116
+1157,37.783785,-122.39893,1,nearest_street,300,3rd St,San Francisco,CA,San Francisco County,94107
+1160,37.786649,-122.413799,1,rooftop,630,Geary St,San Francisco,CA,San Francisco County,94109
+1161,37.791927,-122.414209,1,rooftop,1111,Jones St,San Francisco,CA,San Francisco County,94109
+1163,37.796272,-122.426893,1,nearest_street,2500,Gough St,San Francisco,CA,San Francisco County,94123
+1166,37.791456,-122.392342,1,rooftop,88,Howard St,San Francisco,CA,San Francisco County,94105
+1167,37.771887,-122.423334,1,rooftop,8,Valencia St,San Francisco,CA,San Francisco County,94103
+1168,37.773644,-122.434128,1,rooftop,402,Pierce St,San Francisco,CA,San Francisco County,94117
+1171,37.771887,-122.423334,1,rooftop,8,Valencia St,San Francisco,CA,San Francisco County,94103
+1172,37.7813,-122.4167,1,rooftop,391,Golden Gate Ave,San Francisco,CA,San Francisco County,94102
+1174,37.724625,-122.395926,1,rooftop,5880,3rd St,San Francisco,CA,San Francisco County,94124
+1176,37.773083,-122.391187,1,rooftop,590,Mission Rock St,San Francisco,CA,San Francisco County,94158
+1177,37.758343,-122.438207,1,rooftop,238,Eureka St,San Francisco,CA,San Francisco County,94114
+1184,37.776619,-122.417402,1,rooftop,1415,Market St,San Francisco,CA,San Francisco County,94103
+1185,37.716788,-122.475918,1,nearest_street,300,Gonzalez Dr,San Francisco,CA,San Francisco County,94132
+1187,37.805786,-122.44221,1,nearest_street,501,Marina Blvd,San Francisco,CA,San Francisco County,94123
+1190,37.771804,-122.426621,1,rooftop,200,Buchanan St,San Francisco,CA,San Francisco County,94102
+1194,37.744352,-122.453012,1,rooftop,691,Portola Dr,San Francisco,CA,San Francisco County,94127
+1195,37.784764,-122.390431,1,rooftop,501,Delancey St,San Francisco,CA,San Francisco County,94107
+1196,37.7621,-122.3971,1,rooftop,331,Connecticut St,San Francisco,CA,San Francisco County,94107
+1197,37.7725,-122.4147,1,rooftop,245,11th St,San Francisco,CA,San Francisco County,94103
+1198,37.7621,-122.3971,1,rooftop,331,Connecticut St,San Francisco,CA,San Francisco County,94107
+1199,37.7621,-122.3971,1,rooftop,331,Connecticut St,San Francisco,CA,San Francisco County,94107
+1201,37.796933,-122.429774,1,rooftop,1868,Green St,San Francisco,CA,San Francisco County,94123
+1202,37.718571,-122.484778,1,nearest_street,300,Vidal Dr,San Francisco,CA,San Francisco County,94132
+1204,37.794966,-122.429216,1,rooftop,1955,Broadway,San Francisco,CA,San Francisco County,94109
+1205,37.794576,-122.425869,1,rooftop,1870,Pacific Ave,San Francisco,CA,San Francisco County,94109
+1206,37.762166,-122.4646,1,rooftop,225,Judah St,San Francisco,CA,San Francisco County,94122
+1209,37.776541,-122.417501,1,nearest_street,1401,Market St,San Francisco,CA,San Francisco County,94103
+1210,37.805291,-122.435632,1,rooftop,3739,Webster St,San Francisco,CA,San Francisco County,94123
+1211,37.782457,-122.475236,1,nearest_street,1500,Clement St,San Francisco,CA,San Francisco County,94118
+1213,37.791727,-122.447112,1,rooftop,3193,Pacific Ave,San Francisco,CA,San Francisco County,94115
+1214,37.773083,-122.391187,1,rooftop,590,Mission Rock St,San Francisco,CA,San Francisco County,94158
+1216,37.761324,-122.38864,1,rooftop,2230,3rd St,San Francisco,CA,San Francisco County,94107
+1217,37.761809,-122.391944,1,rooftop,690,Indiana St,San Francisco,CA,San Francisco County,94107
+1218,37.7712,-122.4413,1,rooftop,1146,Haight St,San Francisco,CA,San Francisco County,94117
+1219,37.774277,-122.43594,1,nearest_street,1100,Fell St,San Francisco,CA,San Francisco County,94117
+1220,37.803569,-122.435416,1,rooftop,1701,N Point St,San Francisco,CA,San Francisco County,94123
+1222,37.749892,-122.479312,1,rooftop,2022,22nd Ave,San Francisco,CA,San Francisco County,94116
+1223,37.718119,-122.474484,1,nearest_street,42,Cambon Dr,San Francisco,CA,San Francisco County,94132
+1224,37.7621,-122.3971,1,rooftop,331,Connecticut St,San Francisco,CA,San Francisco County,94107
+1225,37.749923,-122.479312,1,rooftop,2014,22nd Ave,San Francisco,CA,San Francisco County,94116
+1226,37.795435,-122.433469,1,nearest_street,2700,Webster St,San Francisco,CA,San Francisco County,94123
+1228,37.761617,-122.422955,1,nearest_street,3561,18th St,San Francisco,CA,San Francisco County,94110
+1231,37.75983,-122.42592,1,nearest_street,3700,19th St,San Francisco,CA,San Francisco County,94114
+1232,37.7309,-122.3886,1,rooftop,1516,Revere Ave,San Francisco,CA,San Francisco County,94124
+1233,37.80422,-122.439526,1,rooftop,106,Cervantes Blvd,San Francisco,CA,San Francisco County,94123
+1234,37.784612,-122.390174,1,rooftop,501,Delancey St,San Francisco,CA,San Francisco County,94107
+1236,37.787137,-122.396691,1,nearest_street,22,Tehama St,San Francisco,CA,San Francisco County,94105
+1239,37.723837,-122.455916,1,rooftop,1299,Ocean Ave,San Francisco,CA,San Francisco County,94112
+1240,37.723837,-122.455916,1,rooftop,1299,Ocean Ave,San Francisco,CA,San Francisco County,94112
+1243,37.772721,-122.391183,1,rooftop,1201,4th St,San Francisco,CA,San Francisco County,94158
+1244,37.755423,-122.432254,1,nearest_street,850,Noe St,San Francisco,CA,San Francisco County,94114
+1245,37.752104,-122.420665,1,nearest_street,3400,24th St,San Francisco,CA,San Francisco County,94110
+1246,37.780365,-122.505198,1,rooftop,455,44th Ave,San Francisco,CA,San Francisco County,94121
+1247,37.763496,-122.418484,1,nearest_street,3250,17th St,San Francisco,CA,San Francisco County,94110
+1250,37.793223,-122.41447,1,nearest_street,1300,Clay St,San Francisco,CA,San Francisco County,94109
+1255,37.793223,-122.41447,1,nearest_street,1300,Clay St,San Francisco,CA,San Francisco County,94109
+1260,37.765965,-122.432306,1,rooftop,2148,15th St,San Francisco,CA,San Francisco County,94114
+1261,37.752045,-122.483844,1,nearest_street,1900,Ortega St,San Francisco,CA,San Francisco County,94122
+1262,37.785589,-122.424967,1,rooftop,1377,Post St,San Francisco,CA,San Francisco County,94109
+1263,37.785616,-122.424743,1,rooftop,1377,Post St,San Francisco,CA,San Francisco County,94109
+1265,37.748362,-122.429346,1,nearest_street,4000,26th St,San Francisco,CA,San Francisco County,94131
+1266,37.761536,-122.451002,1,rooftop,4925,17th St,San Francisco,CA,San Francisco County,94117
+1267,37.802069,-122.414569,1,rooftop,2135,Taylor St,San Francisco,CA,San Francisco County,94133
+1272,37.802069,-122.414569,1,rooftop,2135,Taylor St,San Francisco,CA,San Francisco County,94133
+1273,37.771396,-122.509895,1,nearest_street,7200,Fulton St,San Francisco,CA,San Francisco County,94121
+1275,37.785639,-122.444313,1,rooftop,2869,Bush St,San Francisco,CA,San Francisco County,94115
+1276,37.800138,-122.403962,1,rooftop,283,Green St,San Francisco,CA,San Francisco County,94133
+1277,37.745,-122.4383,1,rooftop,1422,Douglass St,San Francisco,CA,San Francisco County,94131
+1278,37.721624,-122.472322,1,nearest_street,1356,Holloway Ave,San Francisco,CA,San Francisco County,94132
+1279,37.785635,-122.444347,1,rooftop,2869,Bush St,San Francisco,CA,San Francisco County,94115
+1280,37.761092,-122.468252,1,rooftop,1449,11th Ave,San Francisco,CA,San Francisco County,94122
+1283,37.790087,-122.409357,1,rooftop,722,Bush St,San Francisco,CA,San Francisco County,94108
+1284,37.791923,-122.417582,1,nearest_street,1200,Hyde St,San Francisco,CA,San Francisco County,94109
+1285,37.773089,-122.396768,1,nearest_street,,I 280,San Francisco,CA,San Francisco County,94158
+1286,37.796211,-122.405143,1,nearest_street,900,Kearny St,San Francisco,CA,San Francisco County,94133
+1290,37.776541,-122.417501,1,nearest_street,1401,Market St,San Francisco,CA,San Francisco County,94103
+1291,37.777507,-122.433085,1,rooftop,898,Steiner St,San Francisco,CA,San Francisco County,94117
+1292,37.773089,-122.396768,1,nearest_street,,I 280,San Francisco,CA,San Francisco County,94158
+1294,37.728617,-122.426423,1,nearest_street,479,Silver Ave,San Francisco,CA,San Francisco County,94112
+1295,37.777507,-122.433085,1,rooftop,898,Steiner St,San Francisco,CA,San Francisco County,94117
+1298,37.785199,-122.419152,1,rooftop,888,Ofarrell St,San Francisco,CA,San Francisco County,94109
+1301,37.77521,-122.424327,1,rooftop,330,Octavia St,San Francisco,CA,San Francisco County,94102
+1302,37.7725,-122.4147,1,rooftop,245,11th St,San Francisco,CA,San Francisco County,94103
+1303,37.771804,-122.426621,1,rooftop,200,Buchanan St,San Francisco,CA,San Francisco County,94102
+1304,37.785635,-122.444347,1,rooftop,2869,Bush St,San Francisco,CA,San Francisco County,94115
+1305,37.78317,-122.422562,1,rooftop,915,Franklin St,San Francisco,CA,San Francisco County,94109
+1306,37.769428,-122.403979,1,nearest_street,2,Division St,San Francisco,CA,San Francisco County,94103
+1307,37.787996,-122.393597,1,nearest_street,355,Folsom St,San Francisco,CA,San Francisco County,94105
+1308,37.752377,-122.446661,1,rooftop,96,Crestline Dr,San Francisco,CA,San Francisco County,94131
+1309,37.803936,-122.426756,1,nearest_street,1201,Bay St,San Francisco,CA,San Francisco County,94123
+1313,37.712294,-122.446629,1,rooftop,398,Ellington Ave,San Francisco,CA,San Francisco County,94112
+1315,37.776541,-122.417501,1,nearest_street,1401,Market St,San Francisco,CA,San Francisco County,94103
+1317,37.772065,-122.404452,1,rooftop,875,Brannan St,San Francisco,CA,San Francisco County,94103
+1318,37.724927,-122.395949,1,rooftop,5880,3rd St,San Francisco,CA,San Francisco County,94124
+1323,37.772065,-122.404452,1,rooftop,875,Brannan St,San Francisco,CA,San Francisco County,94103
+1324,37.785635,-122.444347,1,rooftop,2869,Bush St,San Francisco,CA,San Francisco County,94115
+1326,37.78723,-122.391465,1,rooftop,400,Beale St,San Francisco,CA,San Francisco County,94105
+1327,37.772065,-122.404452,1,rooftop,875,Brannan St,San Francisco,CA,San Francisco County,94103
+1328,37.779688,-122.493297,1,nearest_street,500,33rd Ave,San Francisco,CA,San Francisco County,94121
+1333,37.789511,-122.41541,1,rooftop,920,Leavenworth St,San Francisco,CA,San Francisco County,94109
+1334,37.760693,-122.467266,1,rooftop,1479,10th Ave,San Francisco,CA,San Francisco County,94122
+1342,37.785368,-122.422392,1,rooftop,1121,Geary Blvd,San Francisco,CA,San Francisco County,94109
+1343,37.784139,-122.418485,1,rooftop,741,Ellis St,San Francisco,CA,San Francisco County,94109
+1346,37.790836,-122.408925,1,rooftop,655,Powell St,San Francisco,CA,San Francisco County,94108
+1348,37.789271,-122.417716,1,rooftop,1240,Bush St,San Francisco,CA,San Francisco County,94109
+1349,37.766943,-122.428896,1,rooftop,210,Church St,San Francisco,CA,San Francisco County,94114
+1356,37.782042,-122.468653,1,rooftop,337,10th Ave,San Francisco,CA,San Francisco County,94118
+1357,37.789046,-122.417541,1,rooftop,1209,Bush St,San Francisco,CA,San Francisco County,94109
+1358,37.762198,-122.465659,1,rooftop,326,Judah St,San Francisco,CA,San Francisco County,94122
+1361,37.786424,-122.419846,1,rooftop,1037,Polk St,San Francisco,CA,San Francisco County,94109
+1362,37.789046,-122.417541,1,rooftop,1209,Bush St,San Francisco,CA,San Francisco County,94109
+1367,37.789016,-122.410242,1,nearest_street,600,Mason St,San Francisco,CA,San Francisco County,94108
+1370,37.782258,-122.449368,1,rooftop,2824,Geary Blvd,San Francisco,CA,San Francisco County,94118
+1373,37.782872,-122.413441,1,rooftop,256,Turk St,San Francisco,CA,San Francisco County,94102
+1377,37.785034,-122.417115,1,rooftop,755,Ofarrell St,San Francisco,CA,San Francisco County,94109
+1380,37.785896,-122.444299,1,rooftop,2852,Bush St,San Francisco,CA,San Francisco County,94115
+1383,37.798762,-122.422337,1,nearest_street,1396,Union St,San Francisco,CA,San Francisco County,94109
+1388,37.792089,-122.423366,1,rooftop,1830,Clay St,San Francisco,CA,San Francisco County,94109
+1389,37.776333,-122.394035,1,nearest_street,301,King St,San Francisco,CA,San Francisco County,94158
+1390,37.782477,-122.424108,1,nearest_street,1000,Eddy St,San Francisco,CA,San Francisco County,94109
+1391,37.789046,-122.417541,1,rooftop,1209,Bush St,San Francisco,CA,San Francisco County,94109
+1392,37.80384,-122.435035,1,rooftop,1695,N Point St,San Francisco,CA,San Francisco County,94123
+1396,37.786424,-122.419846,1,rooftop,1037,Polk St,San Francisco,CA,San Francisco County,94109
+1399,37.77164,-122.504544,1,nearest_street,6800,Fulton St,San Francisco,CA,San Francisco County,94121
+1401,37.78591,-122.419604,1,rooftop,986,Polk St,San Francisco,CA,San Francisco County,94109
+1403,37.75379,-122.41661,1,rooftop,3201,23rd St,San Francisco,CA,San Francisco County,94110
+1405,37.787397,-122.423416,1,rooftop,1400,Franklin St,San Francisco,CA,San Francisco County,94109
+1407,37.787397,-122.423416,1,rooftop,1400,Franklin St,San Francisco,CA,San Francisco County,94109
+1410,37.7509,-122.4153,1,rooftop,3258,25th St,San Francisco,CA,San Francisco County,94110
+1413,37.747345,-122.414834,1,nearest_street,252,Precita Ave,San Francisco,CA,San Francisco County,94110
+1415,37.793223,-122.41447,1,nearest_street,1300,Clay St,San Francisco,CA,San Francisco County,94109
+1416,37.754337,-122.405454,1,nearest_street,2600,23rd St,San Francisco,CA,San Francisco County,94110
+1417,37.7999,-122.4342,1,rooftop,3130,Webster St,San Francisco,CA,San Francisco County,94123
+1418,37.7999,-122.4342,1,rooftop,3130,Webster St,San Francisco,CA,San Francisco County,94123
+1419,37.796063,-122.428538,1,nearest_street,2600,Octavia St,San Francisco,CA,San Francisco County,94123
+1424,37.79689,-122.414501,1,nearest_street,1000,Broadway St,San Francisco,CA,San Francisco County,94133
+1425,37.794321,-122.413011,1,nearest_street,1300,Taylor St,San Francisco,CA,San Francisco County,94108
+1426,37.794415,-122.419936,1,rooftop,1801,Larkin St,San Francisco,CA,San Francisco County,94109
+1427,37.786849,-122.442319,1,rooftop,2801,Pine St,San Francisco,CA,San Francisco County,94115
+1428,37.7999,-122.4342,1,rooftop,3130,Webster St,San Francisco,CA,San Francisco County,94123
+1429,37.741332,-122.472353,1,nearest_street,2500,16th Ave,San Francisco,CA,San Francisco County,94116
+1431,37.79868,-122.415572,1,nearest_street,1900,Jones St,San Francisco,CA,San Francisco County,94133
+1432,37.785582,-122.414617,1,nearest_street,500,Leavenworth St,San Francisco,CA,San Francisco County,94109
+1436,37.74532,-122.419204,1,rooftop,38,Fair Ave,San Francisco,CA,San Francisco County,94110
+1441,37.793223,-122.41447,1,nearest_street,1300,Clay St,San Francisco,CA,San Francisco County,94109
+1442,37.77534,-122.423846,1,rooftop,273,Hickory St,San Francisco,CA,San Francisco County,94102
+1444,37.797588,-122.431566,1,rooftop,1959,Union St,San Francisco,CA,San Francisco County,94123
+1445,37.754014,-122.443013,1,nearest_street,702,Corbett Ave,San Francisco,CA,San Francisco County,94131
+1446,37.8002,-122.4091,1,rooftop,1560,Stockton St,San Francisco,CA,San Francisco County,94133
+1447,37.752796,-122.40913,1,nearest_street,2850,24th St,San Francisco,CA,San Francisco County,94110
+1448,37.792472,-122.434558,1,nearest_street,2400,Jackson St,San Francisco,CA,San Francisco County,94115
+1451,37.777507,-122.433085,1,rooftop,898,Steiner St,San Francisco,CA,San Francisco County,94117
+1452,37.802411,-122.44334,1,rooftop,3544,Divisadero St,San Francisco,CA,San Francisco County,94123
+1456,37.752869,-122.401471,1,rooftop,1324,Rhode Island St,San Francisco,CA,San Francisco County,94107
+1457,37.792089,-122.423366,1,rooftop,1830,Clay St,San Francisco,CA,San Francisco County,94109
+1458,37.791038,-122.409379,1,rooftop,821,Pine St,San Francisco,CA,San Francisco County,94108
+1462,37.762522,-122.436898,1,rooftop,4068,17th St,San Francisco,CA,San Francisco County,94114
+1463,37.76912,-122.420204,1,rooftop,1754,Mission St,San Francisco,CA,San Francisco County,94103
+1467,37.778017,-122.409337,1,rooftop,1098,Howard St,San Francisco,CA,San Francisco County,94103
+1468,37.79868,-122.415572,1,nearest_street,1900,Jones St,San Francisco,CA,San Francisco County,94133
+1469,37.763672,-122.388793,1,rooftop,2030,3rd St,San Francisco,CA,San Francisco County,94107
+1470,37.775873,-122.408947,1,nearest_street,1148,Folsom St,San Francisco,CA,San Francisco County,94103
+1471,37.758722,-122.446021,1,nearest_street,400,Corbett Ave,San Francisco,CA,San Francisco County,94114
+1473,37.79468,-122.413487,1,rooftop,1329,Taylor St,San Francisco,CA,San Francisco County,94108
+1474,37.794596,-122.414968,1,rooftop,1447,Jones St,San Francisco,CA,San Francisco County,94109
+1475,37.793483,-122.408037,1,rooftop,829,Stockton St,San Francisco,CA,San Francisco County,94108
+1479,37.7587,-122.433,1,rooftop,618,Noe St,San Francisco,CA,San Francisco County,94114
+1481,37.723315,-122.474289,1,rooftop,87,Denslowe Dr,San Francisco,CA,San Francisco County,94132
+1483,37.798112,-122.442468,1,nearest_street,3100,Divisadero St,San Francisco,CA,San Francisco County,94123
+1484,37.72495,-122.461211,1,nearest_street,1801,Ocean Ave,San Francisco,CA,San Francisco County,94112
+1485,37.752241,-122.421813,1,rooftop,3502,24th St,San Francisco,CA,San Francisco County,94110
+1486,37.774762,-122.432114,1,rooftop,590,Steiner St,San Francisco,CA,San Francisco County,94117
+1487,37.788378,-122.414732,1,rooftop,873,Sutter St,San Francisco,CA,San Francisco County,94109
+1488,37.789955,-122.410399,1,rooftop,700,Mason St,San Francisco,CA,San Francisco County,94108
+1490,37.776087,-122.468224,1,rooftop,656,10th Ave,San Francisco,CA,San Francisco County,94118
+1492,37.778129,-122.4103,1,rooftop,612,Natoma St,San Francisco,CA,San Francisco County,94103
+1493,37.796353,-122.426256,1,rooftop,1776,Vallejo St,San Francisco,CA,San Francisco County,94123
+1495,37.736175,-122.425603,1,rooftop,45,Richland Ave,San Francisco,CA,San Francisco County,94110
+1496,37.7309,-122.3886,1,rooftop,1516,Revere Ave,San Francisco,CA,San Francisco County,94124
+1499,37.799765,-122.444516,1,nearest_street,2500,Chestnut St,San Francisco,CA,San Francisco County,94123
+1501,37.783785,-122.39893,1,nearest_street,300,3rd St,San Francisco,CA,San Francisco County,94107
+1502,37.759423,-122.432638,1,nearest_street,4000,19th St,San Francisco,CA,San Francisco County,94114
+1503,37.768696,-122.446668,1,rooftop,715,Ashbury St,San Francisco,CA,San Francisco County,94117
+1507,37.738658,-122.429315,1,rooftop,2,Everson St,San Francisco,CA,San Francisco County,94131
+1508,37.77677,-122.496185,1,rooftop,642,36th Ave,San Francisco,CA,San Francisco County,94121
+1509,37.705231,-122.408982,1,rooftop,3175,Geneva Ave,Daly City,CA,San Mateo County,94014
+1510,37.7593,-122.4836,1,rooftop,2115,Kirkham St,San Francisco,CA,San Francisco County,94122
+1513,37.775715,-122.497319,1,nearest_street,3600,Balboa St,San Francisco,CA,San Francisco County,94121
+1515,37.786749,-122.414853,1,rooftop,696,Geary St,San Francisco,CA,San Francisco County,94109
+1516,37.786749,-122.414853,1,rooftop,696,Geary St,San Francisco,CA,San Francisco County,94109
+1519,37.801328,-122.407405,1,rooftop,17,Bob Kaufman Aly,San Francisco,CA,San Francisco County,94133
+1522,37.792472,-122.434558,1,nearest_street,2400,Jackson St,San Francisco,CA,San Francisco County,94115
+1531,37.793015,-122.444843,1,nearest_street,2900,Broadway St,San Francisco,CA,San Francisco County,94115
+1532,37.803969,-122.435031,1,rooftop,1690,N Point St,San Francisco,CA,San Francisco County,94123
+1538,37.799414,-122.417385,1,nearest_street,2000,Leavenworth St,San Francisco,CA,San Francisco County,94133
+1539,37.7621,-122.3971,1,rooftop,331,Connecticut St,San Francisco,CA,San Francisco County,94107
+1541,37.761436,-122.505133,1,rooftop,1337,45th Ave,San Francisco,CA,San Francisco County,94122
+1546,37.763971,-122.467819,1,rooftop,925,Irving St,San Francisco,CA,San Francisco County,94122
+1552,37.771429,-122.424061,1,rooftop,1834,Market St,San Francisco,CA,San Francisco County,94102
+1553,37.788178,-122.416827,1,nearest_street,800,Hyde St,San Francisco,CA,San Francisco County,94109
+1554,37.788135,-122.390319,1,nearest_street,400,Main St,San Francisco,CA,San Francisco County,94105
+1555,37.788135,-122.390319,1,nearest_street,400,Main St,San Francisco,CA,San Francisco County,94105
+1556,37.79072,-122.41875,1,rooftop,1499,California St,San Francisco,CA,San Francisco County,94109
+1564,37.789701,-122.419853,1,rooftop,1465,Pine St,San Francisco,CA,San Francisco County,94109
+1565,37.800705,-122.444636,1,rooftop,2390,Francisco St,San Francisco,CA,San Francisco County,94123
+1568,37.776511,-122.458698,1,rooftop,749,Arguello Blvd,San Francisco,CA,San Francisco County,94118
+1570,37.750545,-122.446446,1,rooftop,40,Crestline Dr,San Francisco,CA,San Francisco County,94131
+1572,37.795373,-122.413387,1,rooftop,1100,Jackson St,San Francisco,CA,San Francisco County,94133
+1574,37.76452,-122.478414,1,rooftop,1245,20th Ave,San Francisco,CA,San Francisco County,94122
+1575,37.699789,-122.464683,1,rooftop,271,Miriam St,Daly City,CA,San Mateo County,94014
+1576,37.665264,-122.463741,1,rooftop,359,Half Moon Ln,Daly City,CA,San Mateo County,94015
+1578,37.7621,-122.3971,1,rooftop,331,Connecticut St,San Francisco,CA,San Francisco County,94107
+1579,37.709949,-122.452262,1,rooftop,922,Huron Ave,San Francisco,CA,San Francisco County,94112
+1580,37.798301,-122.403879,1,rooftop,1010,Montgomery St,San Francisco,CA,San Francisco County,94133
+1582,37.765939,-122.426507,1,rooftop,225,Dolores St,San Francisco,CA,San Francisco County,94103
+1583,37.777601,-122.452691,1,rooftop,2865,Turk Blvd,San Francisco,CA,San Francisco County,94118
+1584,37.762208,-122.465441,1,rooftop,1391,8th Ave,San Francisco,CA,San Francisco County,94122
+1591,37.783752,-122.389664,1,rooftop,200,Brannan St,San Francisco,CA,San Francisco County,94107
+1592,37.787295,-122.392719,1,rooftop,350,Fremont St,San Francisco,CA,San Francisco County,94105
+1593,37.759231,-122.423615,1,rooftop,744,Guerrero St,San Francisco,CA,San Francisco County,94110
+1594,37.798442,-122.417456,1,rooftop,1907,Leavenworth St,San Francisco,CA,San Francisco County,94109
+1601,37.787295,-122.392719,1,rooftop,350,Fremont St,San Francisco,CA,San Francisco County,94105
+1605,37.792008,-122.431092,1,nearest_street,2400,Buchanan St,San Francisco,CA,San Francisco County,94115
+1607,37.802411,-122.44334,1,rooftop,3544,Divisadero St,San Francisco,CA,San Francisco County,94123
+1612,37.767045,-122.448021,1,rooftop,292,Frederick St,San Francisco,CA,San Francisco County,94117
+1614,37.787295,-122.392719,1,rooftop,350,Fremont St,San Francisco,CA,San Francisco County,94105
+1616,37.778841,-122.422615,1,rooftop,380,Fulton St,San Francisco,CA,San Francisco County,94102
+1617,37.777018,-122.415696,1,rooftop,55,9th St,San Francisco,CA,San Francisco County,94103
+1618,37.777018,-122.415696,1,rooftop,55,9th St,San Francisco,CA,San Francisco County,94103
+1620,37.787295,-122.392719,1,rooftop,350,Fremont St,San Francisco,CA,San Francisco County,94105
+1622,37.790978,-122.407076,1,rooftop,540,Stockton St,San Francisco,CA,San Francisco County,94108
+1627,37.717168,-122.481561,1,rooftop,102,Bucareli Dr,San Francisco,CA,San Francisco County,94132
+1628,37.766212,-122.427452,1,rooftop,1931,15th St,San Francisco,CA,San Francisco County,94114
+1630,37.78591,-122.419604,1,rooftop,986,Polk St,San Francisco,CA,San Francisco County,94109
+1631,37.796063,-122.428538,1,nearest_street,2600,Octavia St,San Francisco,CA,San Francisco County,94123
+1633,37.747696,-122.427045,1,nearest_street,3900,Cesar Chavez St,San Francisco,CA,San Francisco County,94131
+1637,37.783752,-122.447927,1,rooftop,2,Wood St,San Francisco,CA,San Francisco County,94118
+1640,37.771817,-122.440554,1,rooftop,101,Baker St,San Francisco,CA,San Francisco County,94117
+1642,37.788277,-122.416056,1,rooftop,952,Sutter St,San Francisco,CA,San Francisco County,94109
+1646,37.801561,-122.424345,1,rooftop,2806,Van Ness Ave,San Francisco,CA,San Francisco County,94109
+1648,37.787335,-122.415376,1,rooftop,645,Leavenworth St,San Francisco,CA,San Francisco County,94109
+1649,37.784491,-122.45465,1,rooftop,89,Parker Ave,San Francisco,CA,San Francisco County,94118
+1651,37.787188,-122.418302,1,rooftop,1002,Post St,San Francisco,CA,San Francisco County,94109
+1652,37.7872,-122.415333,1,rooftop,645,Leavenworth St,San Francisco,CA,San Francisco County,94109
+1653,37.790455,-122.407587,1,rooftop,618,Bush St,San Francisco,CA,San Francisco County,94108
+1654,37.784741,-122.416406,1,rooftop,419,Hyde St,San Francisco,CA,San Francisco County,94109
+1655,37.789383,-122.414876,1,rooftop,1086,Bush St,San Francisco,CA,San Francisco County,94109
+1657,37.784491,-122.45465,1,rooftop,89,Parker Ave,San Francisco,CA,San Francisco County,94118
+1658,37.7917,-122.4186,1,rooftop,1577,Sacramento St,San Francisco,CA,San Francisco County,94109
+1659,37.788749,-122.415258,1,rooftop,821,Leavenworth St,San Francisco,CA,San Francisco County,94109
+1660,37.789878,-122.411003,1,rooftop,815,Bush St,San Francisco,CA,San Francisco County,94108
+1662,37.730783,-122.409582,1,rooftop,8,Somerset St,San Francisco,CA,San Francisco County,94134
+1663,37.789646,-122.435539,1,rooftop,2160,Steiner St,San Francisco,CA,San Francisco County,94115
+1664,37.793343,-122.417867,1,rooftop,1340,Hyde St,San Francisco,CA,San Francisco County,94109
+1665,37.752729,-122.417397,1,rooftop,878,Capp St,San Francisco,CA,San Francisco County,94110
+1666,37.8365,-122.2804,1,rooftop,4717,Salem St,Emeryville,CA,Alameda County,94608
+1671,37.75796,-122.439622,1,nearest_street,30,Seward St,San Francisco,CA,San Francisco County,94114
+1677,37.781398,-122.409245,1,nearest_street,55,6th St,San Francisco,CA,San Francisco County,94103
+1681,37.785643,-122.444279,1,rooftop,2869,Bush St,San Francisco,CA,San Francisco County,94115
+1686,37.796335,-122.400585,1,rooftop,555,Battery St,San Francisco,CA,San Francisco County,94111
+1687,37.748285,-122.406502,1,rooftop,1534,Hampshire St,San Francisco,CA,San Francisco County,94110
+1688,37.764166,-122.506191,1,nearest_street,4500,Lincoln Way,San Francisco,CA,San Francisco County,94122
+1691,37.798324,-122.440798,1,nearest_street,3100,Scott St,San Francisco,CA,San Francisco County,94123
+1692,37.7999,-122.4342,1,rooftop,3130,Webster St,San Francisco,CA,San Francisco County,94123
+1694,37.801884,-122.43134,1,rooftop,3326,Laguna St,San Francisco,CA,San Francisco County,94123
+1695,37.7999,-122.4342,1,rooftop,3130,Webster St,San Francisco,CA,San Francisco County,94123
+1699,37.714674,-122.473316,1,rooftop,101,Font Blvd,San Francisco,CA,San Francisco County,94132
+1701,37.789594,-122.413222,1,rooftop,985,Bush St,San Francisco,CA,San Francisco County,94109
+1702,37.7917,-122.4186,1,rooftop,1577,Sacramento St,San Francisco,CA,San Francisco County,94109
+1704,37.753968,-122.416413,1,nearest_street,1200,S Van Ness Ave,San Francisco,CA,San Francisco County,94110
+1705,37.755957,-122.39881,1,rooftop,906,Wisconsin St,San Francisco,CA,San Francisco County,94107
+1706,37.798506,-122.415303,1,rooftop,999,Green St,San Francisco,CA,San Francisco County,94133
+1708,37.787395,-122.414024,1,rooftop,711,Post St,San Francisco,CA,San Francisco County,94109
+1709,37.784251,-122.476875,1,rooftop,5515,California St,San Francisco,CA,San Francisco County,94121
+1710,37.7917,-122.4186,1,rooftop,1577,Sacramento St,San Francisco,CA,San Francisco County,94109
+1711,37.71409,-122.473226,1,rooftop,50,Chumasero Dr,San Francisco,CA,San Francisco County,94132
+1712,37.782022,-122.470804,1,rooftop,331,12th Ave,San Francisco,CA,San Francisco County,94118
+1713,37.787251,-122.415299,1,rooftop,645,Leavenworth St,San Francisco,CA,San Francisco County,94109
+1714,37.745,-122.4383,1,rooftop,1422,Douglass St,San Francisco,CA,San Francisco County,94131
+1717,37.748209,-122.444234,1,rooftop,172,Portola Dr,San Francisco,CA,San Francisco County,94131
+1719,37.761809,-122.391858,1,rooftop,690,Indiana St,San Francisco,CA,San Francisco County,94107
+1720,37.80316,-122.43252,1,rooftop,1598,Bay St,San Francisco,CA,San Francisco County,94123
+1721,37.723347,-122.399652,1,rooftop,449,Paul Ave,San Francisco,CA,San Francisco County,94124
+1723,37.771464,-122.432078,1,rooftop,237,Steiner St,San Francisco,CA,San Francisco County,94117
+1725,37.719826,-122.483961,1,rooftop,350,Arballo Dr,San Francisco,CA,San Francisco County,94132
+1798,37.2827,-121.8265,1,rooftop,413,El Cajon Dr,San Jose,CA,Santa Clara County,95111
+1799,37.97245,-122.352098,1,rooftop,2805,12th St,San Pablo,CA,Contra Costa County,94806
+1800,37.443506,-122.119807,1,rooftop,1000,Amarillo Ave,Palo Alto,CA,Santa Clara County,94303
+1803,38.387342,-122.63039,1,rooftop,4328,Sonoma Mountain Rd,Santa Rosa,CA,Sonoma County,95404
+1812,37.289912,-121.833219,1,rooftop,475,Sieber Ct,San Jose,CA,Santa Clara County,95111
+1814,38.113289,-122.264214,1,nearest_street,500,Hichborn St,Vallejo,CA,Solano County,94590
+1816,38.2403,-122.6777,0.99,rooftop,2827,Bodega Ave,Petaluma,CA,Sonoma County,94952
+1817,37.6004,-122.402,1,rooftop,498,Lincoln Cir,Millbrae,CA,San Mateo County,94030
+1819,37.7957,-122.2429,1,rooftop,2029,11th Ave,Oakland,CA,Alameda County,94606
+1824,37.402436,-122.083572,1,rooftop,454,Poppy Pl,Mountain View,CA,Santa Clara County,94043
+1825,37.2827,-121.8265,1,rooftop,413,El Cajon Dr,San Jose,CA,Santa Clara County,95111
+1826,38.049542,-122.153303,1,nearest_street,900,E 3rd St,Benicia,CA,Solano County,94510
+1828,37.679859,-121.722734,1,rooftop,5720,East Ave,Livermore,CA,Alameda County,94550
+1829,37.737434,-122.144966,1,rooftop,456,Mitchell Ave,San Leandro,CA,Alameda County,94577
+1831,37.441002,-122.125764,1,rooftop,938,Celia Dr,Palo Alto,CA,Santa Clara County,94303
+1832,38.363313,-122.717198,1,rooftop,104,Wilfred Ave,Santa Rosa,CA,Sonoma County,95407
+1833,37.7695,-121.5397,1,rooftop,716,Samantha St,Tracy,CA,San Joaquin County,95391
+1834,37.7695,-121.5397,1,rooftop,716,Samantha St,Tracy,CA,San Joaquin County,95391
+1836,37.850527,-122.277446,1,rooftop,1526,Woolsey St,Berkeley,CA,Alameda County,94703
+1837,37.36994,-121.854965,1,rooftop,2304,Ashglen Way,San Jose,CA,Santa Clara County,95133
+1838,37.90403,-122.50258,1,rooftop,215,Blackfield Dr,Belvedere-Tiburon,CA,Marin County,94920
+1839,37.769706,-122.18533,1,rooftop,2634,64th Ave,Oakland,CA,Alameda County,94605
+1840,37.7957,-122.2429,1,rooftop,2029,11th Ave,Oakland,CA,Alameda County,94606
+1841,37.444966,-122.153614,1,rooftop,911,Cowper St,Palo Alto,CA,Santa Clara County,94301
+1844,37.974784,-121.775508,1,rooftop,4458,Buckeye Way,Antioch,CA,Contra Costa County,94531
+1845,37.789641,-122.22614,1,rooftop,2425,25th Ave,Oakland,CA,Alameda County,94601
+1846,37.8084,-122.280235,1,rooftop,1416,Market St,Oakland,CA,Alameda County,94607
+1849,37.319542,-122.01427,1,rooftop,10251,Miller Ave,Cupertino,CA,Santa Clara County,95014
+1852,37.570096,-122.317496,1,rooftop,226,S Humboldt St,San Mateo,CA,San Mateo County,94401
+1854,37.838765,-122.264337,1,rooftop,5308,Shattuck Ave,Oakland,CA,Alameda County,94609
+1857,37.836446,-122.270076,1,rooftop,825,52nd St,Emeryville,CA,Alameda County,94608
+1860,37.815706,-122.214954,1,rooftop,83,Selborne Dr,Oakland,CA,Alameda County,94611
+1861,37.956981,-122.547286,1,rooftop,14,Maple Ave,Greenbrae,CA,Marin County,94904
+1862,38.050916,-121.387424,1,rooftop,5727,Melones Way,Stockton,CA,San Joaquin County,95219
+1864,37.78084,-121.546018,1,rooftop,195,W Charlene Ct,Tracy,CA,San Joaquin County,95391
+1865,38.655299,-121.378278,1,rooftop,3643,Bellinger Ct,North Highlands,CA,Sacramento County,95660
+1866,38.552651,-121.736599,1,rooftop,800,K St,Davis,CA,Yolo County,95616
+1867,38.5816,-121.4944,1,rooftop,828,I St,Sacramento,CA,Sacramento County,95814
+1868,38.6626,-121.4834,1,rooftop,5111,Carey Rd,Sacramento,CA,Sacramento County,95835
+1869,38.4243,-121.437,1,rooftop,8905,Laguna Springs Way,Elk Grove,CA,Sacramento County,95758
+1872,38.553253,-121.388849,1,rooftop,8515,Cliffwood Way,Sacramento,CA,Sacramento County,95826
+1873,38.436212,-121.386074,1,nearest_street,8838,Staplehurst Way,Elk Grove,CA,Sacramento County,95624
+1874,38.5816,-121.4944,1,rooftop,828,I St,Sacramento,CA,Sacramento County,95814
+1875,38.7703,-121.3372,1,rooftop,1521,Michener Dr,Roseville,CA,Placer County,95747
+1876,38.655299,-121.378278,1,rooftop,3643,Bellinger Ct,North Highlands,CA,Sacramento County,95660
+1877,38.6157,-121.5053,1,rooftop,2788,Azevedo Dr,Sacramento,CA,Sacramento County,95833
+1878,38.772438,-121.371889,1,rooftop,1080,Rothbury Ln,Roseville,CA,Placer County,95747
+1879,37.2308,-120.5144,0.07,nearest_place,,,Merced,CA,Merced County,95340
+1880,37.2983,-120.4649,1,rooftop,690,E 20th St,Merced,CA,Merced County,95340
+1881,37.3302,-120.508,0.95,nearest_street,3500,Snelling Hwy,Merced,CA,Merced County,95348
+1898,37.869116,-122.291751,1,rooftop,1106,University Ave,Berkeley,CA,Alameda County,94702
+1900,37.869116,-122.291751,1,rooftop,1106,University Ave,Berkeley,CA,Alameda County,94702
+1901,37.4676,-120.2793,0.1,nearest_place,,,Merced Falls,CA,Mariposa County,95369
+1902,37.160607,-121.697885,1,rooftop,10735,Hale Ave,Morgan Hill,CA,Santa Clara County,95037
+1903,37.8601,-122.4946,1,rooftop,103,Woodward Ave,Sausalito,CA,Marin County,94965
+1904,38.237502,-122.64434,1,rooftop,320,Keller St,Petaluma,CA,Sonoma County,94952
+1906,37.7695,-121.5397,1,rooftop,716,Samantha St,Tracy,CA,San Joaquin County,95391
+1913,38.5091,-121.4935,0.99,rooftop,6512,Golf View Dr,Sacramento,CA,Sacramento County,95822
+1914,38.626576,-121.436895,1,nearest_street,1300,Arcade Blvd,Sacramento,CA,Sacramento County,95815
+1915,37.331474,-120.494011,1,rooftop,1266,Esplanade Dr,Merced,CA,Merced County,95348
+1926,37.759651,-122.402475,1,rooftop,2105,20th St,San Francisco,CA,San Francisco County,94107
+1927,37.790271,-122.415422,1,rooftop,946,Leavenworth St,San Francisco,CA,San Francisco County,94109
+1933,37.786749,-122.414853,1,rooftop,696,Geary St,San Francisco,CA,San Francisco County,94109
+1934,37.786749,-122.414853,1,rooftop,696,Geary St,San Francisco,CA,San Francisco County,94109
+1935,37.7441,-122.4863,1,rooftop,2310,29th Ave,San Francisco,CA,San Francisco County,94116
+1937,37.795153,-122.418231,1,rooftop,1551,Hyde St,San Francisco,CA,San Francisco County,94109
+1940,37.710365,-122.390888,1,nearest_street,298,Executive Park Blvd,San Francisco,CA,San Francisco County,94134
+1941,37.773545,-122.408789,1,rooftop,1200,Harrison St,San Francisco,CA,San Francisco County,94103
+1944,37.710365,-122.390888,1,nearest_street,298,Executive Park Blvd,San Francisco,CA,San Francisco County,94134
+1946,37.781665,-122.401614,1,rooftop,816,Folsom St,San Francisco,CA,San Francisco County,94103
+1950,37.731668,-122.445489,1,rooftop,450,Monterey Blvd,San Francisco,CA,San Francisco County,94127
+1951,37.710365,-122.390888,1,nearest_street,298,Executive Park Blvd,San Francisco,CA,San Francisco County,94134
+1952,37.744882,-122.473517,1,rooftop,2300,17th Ave,San Francisco,CA,San Francisco County,94116
+1953,37.7786,-122.4892,1,rooftop,567,29th Ave,San Francisco,CA,San Francisco County,94121
+1959,37.793558,-122.419597,1,rooftop,1592,Washington St,San Francisco,CA,San Francisco County,94109
+1960,37.785933,-122.392767,1,rooftop,489,Harrison St,San Francisco,CA,San Francisco County,94105
+1965,37.787703,-122.391971,1,rooftop,388,Beale St,San Francisco,CA,San Francisco County,94105
+1970,37.777457,-122.413158,1,nearest_street,100,8th St,San Francisco,CA,San Francisco County,94103
+1974,37.790881,-122.410623,1,nearest_street,900,Pine St,San Francisco,CA,San Francisco County,94108
+1976,37.804359,-122.437046,1,nearest_street,3700,Fillmore St,San Francisco,CA,San Francisco County,94123
+1977,37.747902,-122.48691,1,rooftop,2111,29th Ave,San Francisco,CA,San Francisco County,94116
+1980,37.773083,-122.391187,1,rooftop,590,Mission Rock St,San Francisco,CA,San Francisco County,94158
+1982,37.798572,-122.425672,1,rooftop,2624,Franklin St,San Francisco,CA,San Francisco County,94123
+1983,37.790881,-122.410623,1,nearest_street,900,Pine St,San Francisco,CA,San Francisco County,94108
+1984,37.771804,-122.426621,1,rooftop,200,Buchanan St,San Francisco,CA,San Francisco County,94102
+1986,37.78974,-122.412076,1,nearest_street,800,Taylor St,San Francisco,CA,San Francisco County,94108
+1987,37.799414,-122.417385,1,nearest_street,2000,Leavenworth St,San Francisco,CA,San Francisco County,94133
+1988,37.787424,-122.421154,1,rooftop,1285,Sutter St,San Francisco,CA,San Francisco County,94109
+1990,37.772721,-122.391183,1,rooftop,1201,4th St,San Francisco,CA,San Francisco County,94158
+1992,37.793432,-122.412829,1,nearest_street,1201,Taylor St,San Francisco,CA,San Francisco County,94133
+1993,37.791927,-122.414209,1,rooftop,1111,Jones St,San Francisco,CA,San Francisco County,94109
+1998,37.785075,-122.41114,1,nearest_street,300,Taylor St,San Francisco,CA,San Francisco County,94102
+1999,37.788169,-122.411755,1,nearest_street,621,Taylor St,San Francisco,CA,San Francisco County,94102
+2001,37.788388,-122.415185,1,nearest_street,800,Leavenworth St,San Francisco,CA,San Francisco County,94109
+2002,37.341912,-121.983047,1,rooftop,900,Pepper Tree Ln,Santa Clara,CA,Santa Clara County,95051
+2005,37.788787,-122.42706,1,nearest_street,1800,Octavia St,San Francisco,CA,San Francisco County,94109
+2006,37.793472,-122.43376,1,rooftop,2335,Pacific Ave,San Francisco,CA,San Francisco County,94115
+2010,37.79667,-122.438779,1,nearest_street,2900,Pierce St,San Francisco,CA,San Francisco County,94123
+2012,37.791017,-122.409547,1,rooftop,821,Pine St,San Francisco,CA,San Francisco County,94108
+2013,37.785182,-122.476273,1,rooftop,150,17th Ave,San Francisco,CA,San Francisco County,94118
+2017,37.791097,-122.408913,1,rooftop,710,Powell St,San Francisco,CA,San Francisco County,94108
+2018,37.762604,-122.469432,1,rooftop,1370,12th Ave,San Francisco,CA,San Francisco County,94122
+2019,37.782977,-122.461445,1,rooftop,211,Clement St,San Francisco,CA,San Francisco County,94118
+2020,37.749254,-122.444808,1,nearest_street,1,Crestline Dr,San Francisco,CA,San Francisco County,94131
+2021,37.799504,-122.416664,1,rooftop,1059,Union St,San Francisco,CA,San Francisco County,94133
+2022,37.800802,-122.420165,1,rooftop,1215,Greenwich St,San Francisco,CA,San Francisco County,94109
+2023,37.775184,-122.451291,1,rooftop,2095,Fulton St,San Francisco,CA,San Francisco County,94117
+2024,37.795882,-122.416696,1,rooftop,1300,Pacific Ave,San Francisco,CA,San Francisco County,94109
+2025,37.787424,-122.421154,1,rooftop,1285,Sutter St,San Francisco,CA,San Francisco County,94109
+2031,37.771239,-122.42521,1,rooftop,55,Laguna St,San Francisco,CA,San Francisco County,94102
+2032,37.790463,-122.413916,1,nearest_street,1000,Jones St,San Francisco,CA,San Francisco County,94109
+2033,37.774467,-122.435979,1,rooftop,1104,Fell St,San Francisco,CA,San Francisco County,94117
+2035,37.787996,-122.393597,1,nearest_street,355,Folsom St,San Francisco,CA,San Francisco County,94105
+2042,37.788658,-122.426094,1,rooftop,1843,Pine St,San Francisco,CA,San Francisco County,94109
+2046,37.788658,-122.426169,1,rooftop,1851,Pine St,San Francisco,CA,San Francisco County,94109
+2049,37.7621,-122.3971,1,rooftop,331,Connecticut St,San Francisco,CA,San Francisco County,94107
+2051,37.729246,-122.449708,1,rooftop,338,Staples Ave,San Francisco,CA,San Francisco County,94112
+2053,37.7917,-122.4186,1,rooftop,1577,Sacramento St,San Francisco,CA,San Francisco County,94109
+2055,37.771804,-122.426621,1,rooftop,200,Buchanan St,San Francisco,CA,San Francisco County,94102
+2062,37.786715,-122.451777,1,rooftop,3490,California St,San Francisco,CA,San Francisco County,94118
+2063,37.797957,-122.413744,1,nearest_street,1700,Taylor St,San Francisco,CA,San Francisco County,94133
+2066,37.7509,-122.4153,1,rooftop,3258,25th St,San Francisco,CA,San Francisco County,94110
+2068,37.798081,-122.435209,1,rooftop,2180,Filbert St,San Francisco,CA,San Francisco County,94123
+2074,37.772721,-122.391183,1,rooftop,1201,4th St,San Francisco,CA,San Francisco County,94158
+2076,37.793525,-122.425632,1,rooftop,1823,Jackson St,San Francisco,CA,San Francisco County,94109
+2079,37.804664,-122.405954,1,nearest_street,1800,Kearny St,San Francisco,CA,San Francisco County,94133
+2080,37.790164,-122.416264,1,rooftop,1240,Pine St,San Francisco,CA,San Francisco County,94109
+2088,37.790376,-122.414602,1,rooftop,1140,Pine St,San Francisco,CA,San Francisco County,94109
+2089,37.790376,-122.414602,1,rooftop,1140,Pine St,San Francisco,CA,San Francisco County,94109
+2095,37.764027,-122.4496,1,nearest_street,100,Grattan St,San Francisco,CA,San Francisco County,94117
+2096,37.80547,-122.437272,1,nearest_street,3752,Fillmore St,San Francisco,CA,San Francisco County,94123
+2098,37.772434,-122.39726,1,nearest_street,,I 280,San Francisco,CA,San Francisco County,94158
+2101,37.781858,-122.462193,1,rooftop,364,4th Ave,San Francisco,CA,San Francisco County,94118
+2102,37.786691,-122.44356,1,nearest_street,2900,Pine St,San Francisco,CA,San Francisco County,94115
+2103,37.794774,-122.423563,1,rooftop,2107,Van Ness Ave,San Francisco,CA,San Francisco County,94109
+2111,37.793852,-122.409541,1,nearest_street,1000,Clay St,San Francisco,CA,San Francisco County,94108
+2120,37.75954,-122.462864,1,rooftop,3,Locksley Ave,San Francisco,CA,San Francisco County,94122
+2122,37.75954,-122.462864,1,rooftop,3,Locksley Ave,San Francisco,CA,San Francisco County,94122
+2125,37.771429,-122.424061,1,rooftop,1834,Market St,San Francisco,CA,San Francisco County,94102
+2129,37.78807,-122.425237,1,nearest_street,1600,Gough St,San Francisco,CA,San Francisco County,94109
+2132,37.762198,-122.465659,1,rooftop,326,Judah St,San Francisco,CA,San Francisco County,94122
+2133,37.786714,-122.463794,1,rooftop,95,5th Ave,San Francisco,CA,San Francisco County,94118
+2137,37.798207,-122.406292,1,rooftop,15,Romolo St,San Francisco,CA,San Francisco County,94133
+2148,37.774467,-122.391644,1,rooftop,116,Channel,San Francisco,CA,San Francisco County,94158
+2150,37.771429,-122.424061,1,rooftop,1834,Market St,San Francisco,CA,San Francisco County,94102
+2152,37.746303,-122.429149,1,rooftop,1441,Sanchez St,San Francisco,CA,San Francisco County,94131
+2155,37.775517,-122.460661,1,nearest_street,200,Cabrillo St,San Francisco,CA,San Francisco County,94118
+2157,37.759501,-122.484365,1,nearest_street,1500,26th Ave,San Francisco,CA,San Francisco County,94122
+2158,37.769379,-122.451866,1,nearest_street,1800,Haight St,San Francisco,CA,San Francisco County,94117
+2159,37.770959,-122.505627,0.99,rooftop,6900,Fulton St,San Francisco,CA,San Francisco County,94121
+2164,37.782258,-122.449368,1,rooftop,2824,Geary Blvd,San Francisco,CA,San Francisco County,94118
+2165,37.7354,-122.4571,1,rooftop,118,Cresta Vista Dr,San Francisco,CA,San Francisco County,94127
+2169,37.782943,-122.422221,1,rooftop,900,Franklin St,San Francisco,CA,San Francisco County,94109
+2170,37.76613,-122.428819,1,nearest_street,2000,15th St,San Francisco,CA,San Francisco County,94114
+2172,37.790881,-122.410623,1,nearest_street,900,Pine St,San Francisco,CA,San Francisco County,94108
+2176,37.762198,-122.465659,1,rooftop,326,Judah St,San Francisco,CA,San Francisco County,94122
+2182,37.759078,-122.4228,1,rooftop,164,Linda St,San Francisco,CA,San Francisco County,94110
+2183,37.6247,-122.429,1,nearest_street,,I 280,San Bruno,CA,San Mateo County,94066
+2184,37.792709,-122.418504,1,rooftop,1556,Clay St,San Francisco,CA,San Francisco County,94109
+2186,37.746535,-122.426933,1,rooftop,1521,Church St,San Francisco,CA,San Francisco County,94131
+2187,37.792472,-122.434558,1,nearest_street,2400,Jackson St,San Francisco,CA,San Francisco County,94115
+2188,37.7621,-122.3971,1,rooftop,331,Connecticut St,San Francisco,CA,San Francisco County,94107
+2189,37.7621,-122.3971,1,rooftop,331,Connecticut St,San Francisco,CA,San Francisco County,94107
+2190,37.787137,-122.396691,1,nearest_street,22,Tehama St,San Francisco,CA,San Francisco County,94105
+2191,37.791715,-122.434758,1,rooftop,2504,Washington St,San Francisco,CA,San Francisco County,94115
+2192,37.775915,-122.421989,1,rooftop,261,Fell St,San Francisco,CA,San Francisco County,94102
+2201,37.794679,-122.413083,1,rooftop,1314,Taylor St,San Francisco,CA,San Francisco County,94108
+2204,37.794321,-122.413011,1,nearest_street,1300,Taylor St,San Francisco,CA,San Francisco County,94108
+2205,37.755529,-122.416011,1,rooftop,3081,22nd St,San Francisco,CA,San Francisco County,94110
+2206,37.791982,-122.424207,1,rooftop,1856,Franklin St,San Francisco,CA,San Francisco County,94109
+2207,37.734374,-122.411586,1,nearest_street,,I 280,San Francisco,CA,San Francisco County,94110
+2209,37.791017,-122.409547,1,rooftop,821,Pine St,San Francisco,CA,San Francisco County,94108
+2211,37.783752,-122.447927,1,rooftop,2,Wood St,San Francisco,CA,San Francisco County,94118
+2214,37.786928,-122.456875,1,nearest_street,400,Cherry St,San Francisco,CA,San Francisco County,94118
+2216,37.803613,-122.409174,1,rooftop,464,Lombard St,San Francisco,CA,San Francisco County,94133
+2220,37.629835,-122.493585,1,rooftop,45,Clarendon Rd,Pacifica,CA,San Mateo County,94044
+2222,37.791097,-122.408913,1,rooftop,710,Powell St,San Francisco,CA,San Francisco County,94108
+2225,37.795316,-122.4267,1,nearest_street,2400,Gough St,San Francisco,CA,San Francisco County,94123
+2226,37.774467,-122.435979,1,rooftop,1104,Fell St,San Francisco,CA,San Francisco County,94117
+2228,37.756599,-122.507805,1,nearest_street,4200,Lawton St,San Francisco,CA,San Francisco County,94122
+2230,37.771239,-122.42521,1,rooftop,55,Laguna St,San Francisco,CA,San Francisco County,94102
+2231,37.719,-122.4096,1,rooftop,893,Colby St,San Francisco,CA,San Francisco County,94134
+2233,37.792709,-122.418504,1,rooftop,1556,Clay St,San Francisco,CA,San Francisco County,94109
+2235,37.798207,-122.406292,1,rooftop,15,Romolo St,San Francisco,CA,San Francisco County,94133
+2242,37.78317,-122.422562,1,rooftop,915,Franklin St,San Francisco,CA,San Francisco County,94109
+2243,37.791581,-122.420199,1,rooftop,1662,Sacramento St,San Francisco,CA,San Francisco County,94109
+2246,37.772065,-122.404452,1,rooftop,875,Brannan St,San Francisco,CA,San Francisco County,94103
+2247,37.787397,-122.423416,1,rooftop,1400,Franklin St,San Francisco,CA,San Francisco County,94109
+2248,37.787397,-122.423416,1,rooftop,1400,Franklin St,San Francisco,CA,San Francisco County,94109
+2249,37.781798,-122.38834,1,nearest_street,2,Townsend St,San Francisco,CA,San Francisco County,94107
+2250,37.771841,-122.42702,1,rooftop,203,Buchanan St,San Francisco,CA,San Francisco County,94102
+2252,37.790881,-122.410623,1,nearest_street,900,Pine St,San Francisco,CA,San Francisco County,94108
+2253,37.750761,-122.477149,1,rooftop,1986,20th Ave,San Francisco,CA,San Francisco County,94116
+2255,37.7856,-122.4358,1,rooftop,2161,Sutter St,San Francisco,CA,San Francisco County,94115
+2256,37.793347,-122.434734,1,nearest_street,2400,Pacific Ave,San Francisco,CA,San Francisco County,94115
+2262,37.789511,-122.41541,1,rooftop,920,Leavenworth St,San Francisco,CA,San Francisco County,94109
+2263,37.804917,-122.442132,1,rooftop,3824,Scott St,San Francisco,CA,San Francisco County,94123
+2268,37.77044,-122.426683,1,rooftop,78,Buchanan St,San Francisco,CA,San Francisco County,94102
+2270,37.794679,-122.413083,1,rooftop,1314,Taylor St,San Francisco,CA,San Francisco County,94108
+2276,37.791017,-122.409547,1,rooftop,821,Pine St,San Francisco,CA,San Francisco County,94108
+2278,37.76404,-122.435955,1,rooftop,3721,16th St,San Francisco,CA,San Francisco County,94114
+2279,37.782652,-122.470846,1,nearest_street,1100,Clement St,San Francisco,CA,San Francisco County,94118
+2284,37.7195,-122.4411,1,rooftop,20,Junior Ter,San Francisco,CA,San Francisco County,94112
+2287,37.7593,-122.4836,1,rooftop,2115,Kirkham St,San Francisco,CA,San Francisco County,94122
+2289,37.7195,-122.4411,1,rooftop,20,Junior Ter,San Francisco,CA,San Francisco County,94112
+2292,37.772931,-122.389717,1,nearest_street,1300,3rd St,San Francisco,CA,San Francisco County,94158
+2296,37.729246,-122.449708,1,rooftop,338,Staples Ave,San Francisco,CA,San Francisco County,94112
+2297,37.7725,-122.4147,1,rooftop,245,11th St,San Francisco,CA,San Francisco County,94103
+2301,37.0313,-122.1198,0.32,nearest_place,,,Santa Cruz,CA,Santa Cruz County,95060
+2302,37.8071,-122.2851,1,rooftop,1109,Linden St,Oakland,CA,Alameda County,94607
+2303,37.4443,-122.1497,1,rooftop,1143,Webster St,Palo Alto,CA,Santa Clara County,94301
+2304,37.318,-122.0449,0.99,rooftop,21250,Stevens Creek Blvd,Cupertino,CA,Santa Clara County,95014
+2305,37.8664,-122.257,1,rooftop,2538,Channing Way,Berkeley,CA,Alameda County,94704
+2308,37.0597,-122.0152,1,rooftop,581,Hacienda Dr,Scotts Valley,CA,Santa Cruz County,95066
+2309,37.6004,-122.402,1,rooftop,498,Lincoln Cir,Millbrae,CA,San Mateo County,94030
+2310,37.1353,-121.6501,0.99,rooftop,17631,Calle Mazatan,Morgan Hill,CA,Santa Clara County,95037
+2311,30.1582,-92.0236,1,rooftop,2003,Verot School Rd,Lafayette,LA,Lafayette Parish,70508
+2313,37.843953,-122.294186,1,rooftop,1605,64th St,Emeryville,CA,Alameda County,94608
+2314,36.96363,-122.056784,1,rooftop,376,Western Dr,Santa Cruz,CA,Santa Cruz County,95060
+2315,37.0313,-122.1198,0.32,nearest_place,,,Santa Cruz,CA,Santa Cruz County,95060
+2316,38.4534,-122.6878,1,rooftop,125,Alice St,Santa Rosa,CA,Sonoma County,95409
+2317,37.4815,-122.2091,1,rooftop,2643,2643a Fair Oaks Ave,Redwood City,CA,San Mateo County,94063
+2318,37.8784,-122.2655,1,rooftop,1611,Spruce St,Berkeley,CA,Alameda County,94709
+2319,37.0139,-121.5773,1,rooftop,300,Gurries Dr,Gilroy,CA,Santa Clara County,95020
+2320,37.4443,-122.1497,1,rooftop,1143,Webster St,Palo Alto,CA,Santa Clara County,94301
+2321,37.5368,-122.032,1,rooftop,36961,Newark Bl,Newark,CA,Alameda County,94560
+2322,37.978371,-121.321163,1,rooftop,1455,Telegraph Ave,Stockton,CA,San Joaquin County,95204
+2323,38.122375,-121.262777,1,rooftop,929,S Garfield St,Lodi,CA,San Joaquin County,95240
+2324,37.986977,-121.319239,1,rooftop,1108,Rose Marie Ln,Stockton,CA,San Joaquin County,95207
+2325,37.986977,-121.319239,1,rooftop,1108,Rose Marie Ln,Stockton,CA,San Joaquin County,95207
+2326,37.986977,-121.319239,1,rooftop,1108,Rose Marie Ln,Stockton,CA,San Joaquin County,95207
+2327,37.986977,-121.319239,1,rooftop,1108,Rose Marie Ln,Stockton,CA,San Joaquin County,95207
+2328,38.122375,-121.262777,1,rooftop,929,S Garfield St,Lodi,CA,San Joaquin County,95240
+2332,38.122375,-121.262777,1,rooftop,929,S Garfield St,Lodi,CA,San Joaquin County,95240
+2335,37.957582,-121.297978,1,rooftop,404,W Oak St,Stockton,CA,San Joaquin County,95203
+2338,38.013651,-121.293322,1,rooftop,6427,Welch Ave,Stockton,CA,San Joaquin County,95210
+2340,38.122375,-121.262777,1,rooftop,929,S Garfield St,Lodi,CA,San Joaquin County,95240
+2341,38.013651,-121.293322,1,rooftop,6427,Welch Ave,Stockton,CA,San Joaquin County,95210
+2344,37.650783,-120.969108,1,rooftop,1637,Seven Fls,Modesto,CA,Stanislaus County,95355
+2345,37.650783,-120.969108,1,rooftop,1637,Seven Fls,Modesto,CA,Stanislaus County,95355
+2346,37.650783,-120.969108,1,rooftop,1637,Seven Fls,Modesto,CA,Stanislaus County,95355
+2347,37.650783,-120.969108,1,rooftop,1637,Seven Fls,Modesto,CA,Stanislaus County,95355
+2348,37.529724,-120.854403,1,nearest_street,4000,Patchwork Ct,Turlock,CA,Stanislaus County,95382
+2349,37.6746,-121.0113,1,rooftop,1222,Bowen Ave,Modesto,CA,Stanislaus County,95350
+2350,38.5498,-121.4583,1,rooftop,2760,42nd St,Sacramento,CA,Sacramento County,95817
+2351,38.5347,-121.4451,1,rooftop,4335,52nd St,Sacramento,CA,Sacramento County,95820
+2352,38.578155,-121.467095,1,rooftop,531,28th St,Sacramento,CA,Sacramento County,95816
+2353,38.668236,-121.327262,1,rooftop,5601,Manzanita Ave,Carmichael,CA,Sacramento County,95608
+2354,38.59998,-121.41972,1,rooftop,2000,Wyda Way,Sacramento,CA,Sacramento County,95825
+2355,38.5662,-121.3286,1,rooftop,9821,Heartwood Way,Sacramento,CA,Sacramento County,95827
+2356,38.678337,-121.275983,1,nearest_street,6200,Birdcage St,Citrus Heights,CA,Sacramento County,95610
+2357,38.668236,-121.327262,1,rooftop,5601,Manzanita Ave,Carmichael,CA,Sacramento County,95608
+2358,38.496154,-121.372262,1,nearest_street,8900,Florin Rd,Sacramento,CA,Sacramento County,95829
+2362,38.732151,-121.277061,1,rooftop,950,Madden Ln,Roseville,CA,Placer County,95661
+2363,38.702441,-121.271795,1,rooftop,7508,Sunrise Blvd,Citrus Heights,CA,Sacramento County,95610
+2364,38.6554,-121.2611,1,rooftop,4853,Tommar Dr,Fair Oaks,CA,Sacramento County,95628
+2365,38.644761,-121.267896,1,rooftop,10500,Fair Oaks Blvd,Fair Oaks,CA,Sacramento County,95628
+2370,38.496061,-121.431492,1,nearest_street,7200,Fawn Way,Sacramento,CA,Sacramento County,95823
+2371,38.599529,-121.419955,1,rooftop,1900,Middleberry Rd,Sacramento,CA,Sacramento County,95815
+2372,38.667009,-121.342947,1,nearest_street,5500,Foothill Garden Ct,Sacramento,CA,Sacramento County,95841
+2374,38.5892,-121.4057,1,rooftop,1305,Gannon Dr,Sacramento,CA,Sacramento County,95825
+2376,38.6554,-121.2611,1,rooftop,4853,Tommar Dr,Fair Oaks,CA,Sacramento County,95628
+2378,38.7159,-121.3648,1,rooftop,8344,Deer Spring Cir,Antelope,CA,Sacramento County,95843
+2379,38.523408,-121.458642,1,rooftop,4149,Apostolo Cir,Sacramento,CA,Sacramento County,95824
+2382,38.6627,-121.3406,0.99,rooftop,5300,Laurel Hills Dr,Sacramento,CA,Sacramento County,95841
+2385,38.496061,-121.431492,1,nearest_street,7200,Fawn Way,Sacramento,CA,Sacramento County,95823
+2387,38.678337,-121.275983,1,nearest_street,6200,Birdcage St,Citrus Heights,CA,Sacramento County,95610
+2388,38.578547,-121.473136,1,nearest_street,2400,G St,Sacramento,CA,Sacramento County,95816
+2389,38.5538,-121.7418,1,rooftop,803,10th St,Davis,CA,Yolo County,95616
+2391,38.55849,-121.49668,1,nearest_street,2700,14th St,Sacramento,CA,Sacramento County,95818
+2392,38.578926,-121.469983,1,nearest_street,2600,F St,Sacramento,CA,Sacramento County,95816
+2393,38.57857,-121.468649,1,nearest_street,2700,F St,Sacramento,CA,Sacramento County,95816
+2395,38.624423,-121.436906,1,rooftop,3120,Callecita St,Sacramento,CA,Sacramento County,95815
+2396,38.57486,-121.303779,1,nearest_street,10401,Rockingham Dr,Rancho Cordova,CA,Sacramento County,95670
+2397,38.595776,-121.405685,1,rooftop,2410,Arden Way,Sacramento,CA,Sacramento County,95825
+2400,38.6627,-121.3406,0.99,rooftop,5300,Laurel Hills Dr,Sacramento,CA,Sacramento County,95841
+2403,38.6284,-121.3287,1,rooftop,6945,Fair Oaks Blvd,Carmichael,CA,Sacramento County,95608
+2404,38.6284,-121.3287,1,rooftop,6945,Fair Oaks Blvd,Carmichael,CA,Sacramento County,95608
+2405,38.6627,-121.3406,0.99,rooftop,5300,Laurel Hills Dr,Sacramento,CA,Sacramento County,95841
+2406,38.614302,-121.286552,1,rooftop,10730,Coloma Rd,Rancho Cordova,CA,Sacramento County,95670
+2407,38.668236,-121.327262,1,rooftop,5601,Manzanita Ave,Carmichael,CA,Sacramento County,95608
+2408,38.591766,-121.296373,1,rooftop,2897,Mills Park Dr,Rancho Cordova,CA,Sacramento County,95670
+2409,38.5347,-121.4451,1,rooftop,4335,52nd St,Sacramento,CA,Sacramento County,95820
+2410,38.585203,-121.314253,1,rooftop,2807,La Loma Dr,Rancho Cordova,CA,Sacramento County,95670
+2413,37.303423,-120.459631,1,rooftop,2560,Midge Ave,Merced,CA,Merced County,95340
+2425,37.351037,-121.99317,1,rooftop,1473,Merrill Pl,Santa Clara,CA,Santa Clara County,95051
+2426,41.3897,-81.7351,1,rooftop,6402,Ridge Rd,Cleveland,OH,Cuyahoga County,44129
+2427,37.4056,-122.0775,1,rooftop,905,W Middlefield Rd,Mountain View,CA,Santa Clara County,94043
+2428,37.9156,-122.2985,1,rooftop,7427,Moeser Ln,El Cerrito,CA,Contra Costa County,94530
+2434,38.0377,-121.3445,1,rooftop,9526,Chapel Hill Ct,Stockton,CA,San Joaquin County,95209
+2435,37.9743,-121.3154,1,rooftop,1204,W Mendocino Ave,Stockton,CA,San Joaquin County,95204
+2436,37.914091,-121.421363,1,nearest_place,,,Stockton,CA,San Joaquin County,95206
+2437,37.9743,-121.3154,1,rooftop,1204,W Mendocino Ave,Stockton,CA,San Joaquin County,95204
+2438,38.0024,-121.3238,1,rooftop,5929,Fern St,Stockton,CA,San Joaquin County,95207
+2439,37.993594,-121.304445,1,nearest_street,26,E Jamestown St,Stockton,CA,San Joaquin County,95207
+2440,37.991861,-121.301572,1,rooftop,108,E Bianchi Rd,Stockton,CA,San Joaquin County,95207
+2441,37.940173,-121.284485,1,rooftop,211,E Clay St,Stockton,CA,San Joaquin County,95206
+2442,37.914091,-121.421363,1,nearest_place,,,Stockton,CA,San Joaquin County,95206
+2443,37.958,-121.2876,1,rooftop,302,E Fremont St,Stockton,CA,San Joaquin County,95202
+2445,36.595106,-121.879396,1,nearest_street,700,Ocean Ave,Monterey,CA,Monterey County,93940
+2446,36.588793,-121.888676,1,rooftop,980,Fremont St,Monterey,CA,Monterey County,93940
+2448,34.2625,-118.427,1,rooftop,13484,W Van Nuys Blvd,Pacoima,CA,Los Angeles County,91331
+2449,37.5833,-120.9496,1,rooftop,3724,Collins Rd,Ceres,CA,Stanislaus County,95307
+2450,37.7741,-120.8377,1,rooftop,1300,D St,Oakdale,CA,Stanislaus County,95361
+2451,37.521893,-120.86264,1,nearest_street,1198,W Monte Vista Ave,Turlock,CA,Stanislaus County,95382
+2452,37.504459,-120.837547,1,rooftop,975,Wayside Dr,Turlock,CA,Stanislaus County,95380
+2453,37.7298,-120.942,1,rooftop,2960,Rocky Ln,Riverbank,CA,Stanislaus County,95367
+2454,37.500295,-120.864377,1,rooftop,1400,Canal Dr,Turlock,CA,Stanislaus County,95380
+2455,37.502424,-120.847704,1,rooftop,96,Starr Ave,Turlock,CA,Stanislaus County,95380
+2456,33.9208,-117.4589,1,rooftop,10000,County Farm Rd,Riverside,CA,Riverside County,92503
+2457,37.682566,-121.022289,1,rooftop,3016,Carver Rd,Modesto,CA,Stanislaus County,95350
+2458,37.675227,-120.97327,1,rooftop,1324,Ensenada Dr,Modesto,CA,Stanislaus County,95355
+2459,37.672068,-120.961919,1,rooftop,2022,Celeste Dr,Modesto,CA,Stanislaus County,95355
+2460,37.766983,-120.842712,1,nearest_street,700,E G St,Oakdale,CA,Stanislaus County,95361
+2461,37.667264,-120.989552,1,rooftop,305,E Granger Ave,Modesto,CA,Stanislaus County,95350
+2462,37.521865,-120.839875,1,rooftop,800,E Monte Vista Ave,Turlock,CA,Stanislaus County,95382
+2463,37.992909,-121.299512,1,rooftop,4477,Cotton Ct,Stockton,CA,San Joaquin County,95207
+2464,37.646941,-120.991429,1,nearest_street,208,Johnson St,Modesto,CA,Stanislaus County,95354
+2465,37.6409,-120.9749,1,rooftop,1217,La Loma Ave,Modesto,CA,Stanislaus County,95354
+2466,37.529244,-120.860901,1,rooftop,1072,Kirksey Dr,Turlock,CA,Stanislaus County,95382
+2475,38.8071,-121.1698,1,rooftop,7680,Wayland Rd,Loomis,CA,Placer County,95650
+2476,38.5816,-121.4944,1,rooftop,828,I St,Sacramento,CA,Sacramento County,95814
+2477,38.513733,-121.435336,0.99,rooftop,6025,Dias Ave,Sacramento,CA,Sacramento County,95824
+2478,38.624272,-121.446156,1,nearest_street,900,Arcade Blvd,Sacramento,CA,Sacramento County,95815
+2479,38.6383,-121.5072,1,rooftop,3711,Truxel Rd,Sacramento,CA,Sacramento County,95834
+2480,38.5762,-121.488,1,rooftop,1431,L St,Sacramento,CA,Sacramento County,95814
+2481,38.611523,-121.420774,1,rooftop,1945,El Camino Ave,Sacramento,CA,Sacramento County,95815
+2482,32.636997,-115.44837,0,,,,,,,
+2483,38.542514,-121.372211,1,rooftop,8925,Canberra Dr,Sacramento,CA,Sacramento County,95826
+2487,38.261202,-122.038432,1,rooftop,1725,Sycamore Dr,Fairfield,CA,Solano County,94533
+2488,38.739299,-121.294547,1,rooftop,211,D St,Roseville,CA,Placer County,95678
+2489,38.5462,-121.6676,0.5,nearest_place,,,El Macero,CA,Yolo County,95618
+2490,38.5498,-121.4583,1,rooftop,2760,42nd St,Sacramento,CA,Sacramento County,95817
+2491,38.625942,-121.458223,1,rooftop,3250,Bozeman St,Sacramento,CA,Sacramento County,95838
+2492,38.5816,-121.4944,1,rooftop,828,I St,Sacramento,CA,Sacramento County,95814
+2493,38.6383,-121.5072,1,rooftop,3711,Truxel Rd,Sacramento,CA,Sacramento County,95834
+2494,38.708031,-121.271785,1,rooftop,7807,Sunrise Blvd,Citrus Heights,CA,Sacramento County,95610
+2495,41.7817,-124.1332,0.11,nearest_place,,,Crescent City,CA,Del Norte County,95531
+2496,38.636605,-121.440152,1,rooftop,1141,Grand Ave,Sacramento,CA,Sacramento County,95838
+2497,38.5816,-121.4944,1,rooftop,828,I St,Sacramento,CA,Sacramento County,95814
+2498,38.596,-121.3978,1,rooftop,2810,Arden Way,Sacramento,CA,Sacramento County,95825
+2499,38.6865,-121.3494,1,rooftop,4944,Andrea Blvd,Sacramento,CA,Sacramento County,95842
+2502,38.6383,-121.5072,1,rooftop,3711,Truxel Rd,Sacramento,CA,Sacramento County,95834
+2503,38.523697,-121.457916,1,nearest_street,4220,Apostolo Cir,Sacramento,CA,Sacramento County,95824
+2504,38.4797,-121.4438,1,rooftop,5000,Tangerine Ave,Sacramento,CA,Sacramento County,95823
+2505,38.614335,-121.286573,1,rooftop,10780,Coloma Rd,Rancho Cordova,CA,Sacramento County,95670
+2506,38.691376,-121.79181,1,rooftop,186,Muir St,Woodland,CA,Yolo County,95695
+2507,38.6709,-121.1529,1,rooftop,430,Blue Ravine Rd,Folsom,CA,Sacramento County,95630
+2508,39.156192,-121.633927,1,rooftop,1275,Melton Dr,Yuba City,CA,Sutter County,95991
+2509,38.6865,-121.3494,1,rooftop,4944,Andrea Blvd,Sacramento,CA,Sacramento County,95842
+2510,38.4826,-121.4006,0.99,rooftop,8285,Gerber Rd,Sacramento,CA,Sacramento County,95828
+2511,38.6865,-121.3494,1,rooftop,4944,Andrea Blvd,Sacramento,CA,Sacramento County,95842
+2512,38.5538,-121.7418,1,rooftop,803,10th St,Davis,CA,Yolo County,95616
+2513,38.474254,-121.436875,1,nearest_street,7800,Center Pkwy,Sacramento,CA,Sacramento County,95823
+2514,38.620224,-121.407509,1,rooftop,3000,Yellowstone Ln,Sacramento,CA,Sacramento County,95821
+2515,38.6865,-121.3494,1,rooftop,4944,Andrea Blvd,Sacramento,CA,Sacramento County,95842
+2516,38.4797,-121.4438,1,rooftop,5000,Tangerine Ave,Sacramento,CA,Sacramento County,95823
+2517,38.5568,-121.4929,1,rooftop,2717,17th St,Sacramento,CA,Sacramento County,95818
+2518,38.510538,-121.491534,1,nearest_street,6430,Romack Cir,Sacramento,CA,Sacramento County,95822
+2520,37.337869,-120.58435,1,rooftop,701,Green Sands Ave,Atwater,CA,Merced County,95301
+2521,37.304627,-120.458892,1,nearest_street,1198,E 27th St,Merced,CA,Merced County,95340
+2522,37.290367,-120.453391,1,rooftop,1530,Ellen Ct,Merced,CA,Merced County,95340
+2523,37.323392,-120.49189,1,nearest_street,1340,Loughborough Dr,Merced,CA,Merced County,95348
+2524,37.3489,-120.6028,1,rooftop,798,Grove Ave,Atwater,CA,Merced County,95301
+2525,37.2983,-120.4649,1,rooftop,690,E 20th St,Merced,CA,Merced County,95340
+2526,37.360461,-120.597936,1,nearest_street,500,Bellevue Rd,Atwater,CA,Merced County,95301
+2527,37.323428,-120.486924,1,nearest_street,1100,Loughborough Dr,Merced,CA,Merced County,95348
+2528,37.323428,-120.486924,1,nearest_street,1100,Loughborough Dr,Merced,CA,Merced County,95348
+2529,37.323405,-120.490311,1,nearest_street,3298,Meadows Ave,Merced,CA,Merced County,95348
+2530,37.324697,-120.48691,1,rooftop,3326,R St,Merced,CA,Merced County,95348
+2531,37.5239,-120.8517,0.96,nearest_street,298,W Monte Vista Ave,Turlock,CA,Stanislaus County,95382
+2532,37.3489,-120.6028,1,rooftop,798,Grove Ave,Atwater,CA,Merced County,95301
+2533,37.061983,-120.841496,1,nearest_street,599,9th St,Los Banos,CA,Merced County,93635
+2567,37.755176,-122.38791,1,rooftop,747,23rd St,San Francisco,CA,San Francisco County,94107
+2568,37.755295,-122.387888,1,rooftop,747,23rd St,San Francisco,CA,San Francisco County,94107
+2571,37.755879,-122.388061,1,rooftop,2660,3rd St,San Francisco,CA,San Francisco County,94107
+2572,37.755879,-122.388061,1,rooftop,2660,3rd St,San Francisco,CA,San Francisco County,94107
+2573,37.783838,-122.444674,1,rooftop,2596,Post St,San Francisco,CA,San Francisco County,94115
+2574,37.785325,-122.416662,1,rooftop,725,Ofarrell St,San Francisco,CA,San Francisco County,94109
+2575,37.778089,-122.443507,1,nearest_street,800,Lyon St,San Francisco,CA,San Francisco County,94115
+2576,37.770636,-122.449504,1,rooftop,1745,Page St,San Francisco,CA,San Francisco County,94117
+2577,37.770636,-122.449504,1,rooftop,1745,Page St,San Francisco,CA,San Francisco County,94117
+2579,37.799218,-122.42074,1,rooftop,1298,Union St,San Francisco,CA,San Francisco County,94109
+2580,37.801304,-122.424538,1,nearest_street,2801,Van Ness Ave,San Francisco,CA,San Francisco County,94109
+2581,37.801304,-122.424538,1,nearest_street,2801,Van Ness Ave,San Francisco,CA,San Francisco County,94109
+2582,37.72495,-122.461211,1,nearest_street,1801,Ocean Ave,San Francisco,CA,San Francisco County,94112
+2583,37.793428,-122.26913,1,rooftop,202,Madison St,Oakland,CA,Alameda County,94607
+2584,37.791205,-122.40806,1,nearest_street,722,Pine St,San Francisco,CA,San Francisco County,94108
+2585,37.791205,-122.40806,1,nearest_street,722,Pine St,San Francisco,CA,San Francisco County,94108
+2586,37.758198,-122.441039,1,rooftop,185,Corwin St,San Francisco,CA,San Francisco County,94114
+2587,37.786491,-122.415038,1,rooftop,700,Geary St,San Francisco,CA,San Francisco County,94109
+2588,37.770636,-122.449504,1,rooftop,1745,Page St,San Francisco,CA,San Francisco County,94117
+2589,37.786089,-122.397391,1,rooftop,235,2nd St,San Francisco,CA,San Francisco County,94105
+2590,37.790981,-122.4178,1,rooftop,1426,California St,San Francisco,CA,San Francisco County,94109
+2591,37.796158,-122.438675,1,rooftop,2832,Pierce St,San Francisco,CA,San Francisco County,94123
+2592,37.794895,-122.429989,1,nearest_street,2000,Broadway St,San Francisco,CA,San Francisco County,94115
+2593,37.8002,-122.4091,1,rooftop,1560,Stockton St,San Francisco,CA,San Francisco County,94133
+2594,37.798949,-122.446039,1,rooftop,3015,Baker St,San Francisco,CA,San Francisco County,94123
+2595,37.782453,-122.475323,1,rooftop,307,16th Ave,San Francisco,CA,San Francisco County,94118
+2596,37.772525,-122.427158,1,nearest_street,300,Haight St,San Francisco,CA,San Francisco County,94102
+2597,37.796695,-122.43222,1,rooftop,2901,Buchanan St,San Francisco,CA,San Francisco County,94123
+2599,37.7786,-122.4892,1,rooftop,567,29th Ave,San Francisco,CA,San Francisco County,94121
+2600,37.774412,-122.427263,1,rooftop,436,Buchanan St,San Francisco,CA,San Francisco County,94102
+2601,37.774299,-122.39051,1,rooftop,1135,4th St,San Francisco,CA,San Francisco County,94158
+2602,37.761725,-122.391794,1,rooftop,690,Indiana St,San Francisco,CA,San Francisco County,94107
+2603,37.784076,-122.432456,1,rooftop,1795,Geary Blvd,San Francisco,CA,San Francisco County,94115
+2604,37.7812,-122.4614,1,rooftop,3912,Geary Blvd,San Francisco,CA,San Francisco County,94118
+2605,37.75281,-122.443619,1,rooftop,875,Corbett Ave,San Francisco,CA,San Francisco County,94131
+2606,37.794508,-122.425311,1,rooftop,1821,Pacific Ave,San Francisco,CA,San Francisco County,94109
+2607,37.778601,-122.483783,1,rooftop,583,24th Ave,San Francisco,CA,San Francisco County,94121
+2608,37.722979,-122.450764,1,rooftop,851,Ocean Ave,San Francisco,CA,San Francisco County,94112
+2609,37.802628,-122.436693,1,nearest_street,1,Cervantes Blvd,San Francisco,CA,San Francisco County,94123
+2610,37.800032,-122.412471,1,nearest_street,800,Union St,San Francisco,CA,San Francisco County,94133
+2611,37.772721,-122.391183,1,rooftop,1201,4th St,San Francisco,CA,San Francisco County,94158
+2612,37.789743,-122.42726,1,nearest_street,1901,Octavia St,San Francisco,CA,San Francisco County,94109
+2613,37.709085,-122.469509,1,rooftop,272,Saint Charles Ave,San Francisco,CA,San Francisco County,94132
+2614,37.798942,-122.403187,1,rooftop,29,Prescott Ct,San Francisco,CA,San Francisco County,94133
+2615,37.775942,-122.437854,1,rooftop,1290,Grove St,San Francisco,CA,San Francisco County,94117
+2616,37.794245,-122.479557,1,nearest_street,1577,Pershing Dr,San Francisco,CA,San Francisco County,94129
+2617,37.744937,-122.443169,1,rooftop,91,Cameo Way,San Francisco,CA,San Francisco County,94131
+2618,37.772952,-122.438851,1,rooftop,300,Broderick St,San Francisco,CA,San Francisco County,94117
+2619,37.774299,-122.39051,1,rooftop,1135,4th St,San Francisco,CA,San Francisco County,94158
+2620,37.799663,-122.416277,1,rooftop,1046,Union St,San Francisco,CA,San Francisco County,94133
+2621,37.787424,-122.421154,1,rooftop,1285,Sutter St,San Francisco,CA,San Francisco County,94109
+2622,37.793112,-122.424572,1,rooftop,2020,Franklin St,San Francisco,CA,San Francisco County,94109
+2623,37.754575,-122.444108,1,rooftop,160,Gardenside Dr,San Francisco,CA,San Francisco County,94131
+2625,37.764037,-122.466311,1,nearest_street,800,Irving St,San Francisco,CA,San Francisco County,94122
+2626,37.755295,-122.420964,1,nearest_street,1100,Valencia St,San Francisco,CA,San Francisco County,94110
+2627,37.765996,-122.431038,1,nearest_street,2100,15th St,San Francisco,CA,San Francisco County,94114
+2628,37.752568,-122.416284,1,rooftop,1284,S Van Ness Ave,San Francisco,CA,San Francisco County,94110
+2629,37.791982,-122.424207,1,rooftop,1856,Franklin St,San Francisco,CA,San Francisco County,94109
+2630,37.765925,-122.466442,1,nearest_street,800,Lincoln Way,San Francisco,CA,San Francisco County,94122
+2632,37.749951,-122.508459,1,rooftop,1952,Great Hwy,San Francisco,CA,San Francisco County,94116
+2633,37.760605,-122.507015,1,rooftop,1395,47th Ave,San Francisco,CA,San Francisco County,94122
+2634,37.75766,-122.50597,1,rooftop,1547,46th Ave,San Francisco,CA,San Francisco County,94122
+2636,37.777628,-122.410935,1,rooftop,643,Natoma St,San Francisco,CA,San Francisco County,94103
+2637,37.742655,-122.486413,1,rooftop,2394,29th Ave,San Francisco,CA,San Francisco County,94116
+2638,37.786448,-122.407735,1,rooftop,181,Ofarrell St,San Francisco,CA,San Francisco County,94102
+2639,37.74218,-122.418981,1,rooftop,221,Virginia Ave,San Francisco,CA,San Francisco County,94110
+2640,37.801529,-122.408101,1,rooftop,519,Filbert St,San Francisco,CA,San Francisco County,94133
+2641,37.7593,-122.4836,1,rooftop,2115,Kirkham St,San Francisco,CA,San Francisco County,94122
+2642,37.777619,-122.41187,1,nearest_street,655,Minna St,San Francisco,CA,San Francisco County,94103
+2644,37.760377,-122.506999,1,nearest_street,1400,47th Ave,San Francisco,CA,San Francisco County,94122
+2646,37.7593,-122.4836,1,rooftop,2115,Kirkham St,San Francisco,CA,San Francisco County,94122
+2647,32.8178,-116.9223,1,rooftop,1598,Villa Crest Dr,El Cajon,CA,San Diego County,92021
+2648,37.79016,-122.423975,1,nearest_street,1700,Franklin St,San Francisco,CA,San Francisco County,94109
+2649,37.719,-122.4096,1,rooftop,893,Colby St,San Francisco,CA,San Francisco County,94134
+2650,37.745881,-122.496309,1,nearest_street,2200,38th Ave,San Francisco,CA,San Francisco County,94116
+2652,37.780828,-122.456343,1,rooftop,25,Stanyan Blvd,San Francisco,CA,San Francisco County,94118
+2893,37.761078,-122.440985,1,nearest_street,3000,Market St,San Francisco,CA,San Francisco County,94114
+2894,37.76399,-122.467383,1,nearest_street,1300,10th Ave,San Francisco,CA,San Francisco County,94122
+2897,37.781732,-122.437623,1,rooftop,1307,Scott St,San Francisco,CA,San Francisco County,94115
+2901,37.777283,-122.462941,1,nearest_street,600,5th Ave,San Francisco,CA,San Francisco County,94118
+2902,37.777283,-122.462941,1,nearest_street,600,5th Ave,San Francisco,CA,San Francisco County,94118
+2904,37.763987,-122.444412,1,nearest_street,200,Upper Ter,San Francisco,CA,San Francisco County,94117
+2905,37.7784,-122.414342,1,rooftop,1201,Market St,San Francisco,CA,San Francisco County,94103
+2906,37.7784,-122.414342,1,rooftop,1201,Market St,San Francisco,CA,San Francisco County,94103
+2907,37.771753,-122.427002,1,rooftop,203,Buchanan St,San Francisco,CA,San Francisco County,94102
+2908,37.773935,-122.446092,1,nearest_street,800,Masonic Ave,San Francisco,CA,San Francisco County,94117
+2910,37.729874,-122.372006,1,nearest_street,700,Innes Ave,San Francisco,CA,San Francisco County,94124
+2911,37.73377,-122.439051,1,rooftop,150,Burnside Ave,San Francisco,CA,San Francisco County,94131
+2912,37.7812,-122.4614,1,rooftop,3912,Geary Blvd,San Francisco,CA,San Francisco County,94118
+2913,37.801076,-122.426748,1,rooftop,1524,Lombard St,San Francisco,CA,San Francisco County,94123
+2914,37.785131,-122.463503,1,nearest_street,4300,California St,San Francisco,CA,San Francisco County,94118
+2918,37.779853,-122.403909,1,rooftop,921,Folsom St,San Francisco,CA,San Francisco County,94107
+2920,37.730177,-122.371731,1,rooftop,740,Earl St,San Francisco,CA,San Francisco County,94124
+2921,37.77446,-122.449517,1,nearest_street,100,Clayton St,San Francisco,CA,San Francisco County,94117
+2923,37.790841,-122.418566,1,rooftop,1476,California St,San Francisco,CA,San Francisco County,94109
+2924,37.771804,-122.426621,1,rooftop,200,Buchanan St,San Francisco,CA,San Francisco County,94102
+2926,37.7864,-122.3892,1,rooftop,501,Beale St,San Francisco,CA,San Francisco County,94105
+2927,37.797617,-122.423793,1,nearest_street,2400,Van Ness Ave,San Francisco,CA,San Francisco County,94109
+2929,37.792269,-122.424402,1,rooftop,1901,Franklin St,San Francisco,CA,San Francisco County,94109
+2931,37.739002,-122.415899,1,nearest_street,400,Moultrie St,San Francisco,CA,San Francisco County,94110
+2932,37.773083,-122.391187,1,rooftop,590,Mission Rock St,San Francisco,CA,San Francisco County,94158
+2936,37.745913,-122.428658,1,rooftop,1451,Sanchez St,San Francisco,CA,San Francisco County,94131
+2940,37.782077,-122.483804,1,nearest_street,2300,Clement St,San Francisco,CA,San Francisco County,94121
+2942,37.787703,-122.391971,1,rooftop,388,Beale St,San Francisco,CA,San Francisco County,94105
+2943,37.780851,-122.453083,1,rooftop,767,Spruce St,San Francisco,CA,San Francisco County,94118
+2944,37.7593,-122.4836,1,rooftop,2115,Kirkham St,San Francisco,CA,San Francisco County,94122
+2945,37.78518,-122.435781,1,rooftop,2000,Post St,San Francisco,CA,San Francisco County,94115
+2946,37.777592,-122.41098,1,rooftop,643,Natoma St,San Francisco,CA,San Francisco County,94103
+2947,37.779907,-122.492859,1,rooftop,6838,Geary Blvd,San Francisco,CA,San Francisco County,94121
+2949,37.8002,-122.4091,1,rooftop,1560,Stockton St,San Francisco,CA,San Francisco County,94133
+2950,37.775272,-122.415908,1,nearest_street,100,10th St,San Francisco,CA,San Francisco County,94103
+2951,37.689004,-122.494098,1,rooftop,281,Westridge Ave,Daly City,CA,San Mateo County,94015
+2952,37.754833,-122.425438,1,rooftop,3489,22nd St,San Francisco,CA,San Francisco County,94110
+2953,37.761708,-122.391794,1,rooftop,690,Indiana St,San Francisco,CA,San Francisco County,94107
+2954,38.344853,-121.959578,1,rooftop,741,Beelard Dr,Vacaville,CA,Solano County,95687
+2955,38.344853,-121.959578,1,rooftop,741,Beelard Dr,Vacaville,CA,Solano County,95687
+2957,37.787213,-122.391949,1,rooftop,396,Harrison St,San Francisco,CA,San Francisco County,94105
+2958,37.764715,-122.425231,1,rooftop,3251,16th St,San Francisco,CA,San Francisco County,94110
+2959,37.772721,-122.391183,1,rooftop,1201,4th St,San Francisco,CA,San Francisco County,94158
+2961,37.769798,-122.448579,1,nearest_street,600,Clayton St,San Francisco,CA,San Francisco County,94117
+2962,37.713304,-122.41015,1,nearest_street,330,Leland Ave,San Francisco,CA,San Francisco County,94134
+2963,37.780767,-122.437532,1,rooftop,1817,Eddy St,San Francisco,CA,San Francisco County,94115
+2964,37.793428,-122.26913,1,rooftop,202,Madison St,Oakland,CA,Alameda County,94607
+2965,37.780767,-122.437532,1,rooftop,1817,Eddy St,San Francisco,CA,San Francisco County,94115
+2966,37.774015,-122.440999,1,rooftop,328,Baker St,San Francisco,CA,San Francisco County,94117
+2967,37.791433,-122.421376,1,rooftop,1720,Sacramento St,San Francisco,CA,San Francisco County,94109
+2968,37.787703,-122.391971,1,rooftop,388,Beale St,San Francisco,CA,San Francisco County,94105
+2971,37.787213,-122.391949,1,rooftop,396,Harrison St,San Francisco,CA,San Francisco County,94105
+2974,37.749357,-122.444826,1,rooftop,821,Burnett Ave,San Francisco,CA,San Francisco County,94131
+2975,37.793428,-122.26913,1,rooftop,202,Madison St,Oakland,CA,Alameda County,94607
+2976,37.763467,-122.479267,1,nearest_street,1300,21st Ave,San Francisco,CA,San Francisco County,94122
+2977,37.727559,-122.368684,1,rooftop,11,Innes Ct,San Francisco,CA,San Francisco County,94124
+2978,37.791456,-122.392342,1,rooftop,88,Howard St,San Francisco,CA,San Francisco County,94105
+2979,37.787137,-122.396691,1,nearest_street,22,Tehama St,San Francisco,CA,San Francisco County,94105
+2981,37.720934,-122.440473,1,nearest_street,1100,Cayuga Ave,San Francisco,CA,San Francisco County,94112
+2982,37.764037,-122.466311,1,nearest_street,800,Irving St,San Francisco,CA,San Francisco County,94122
+2985,37.795544,-122.424923,1,rooftop,1690,Broadway,San Francisco,CA,San Francisco County,94123
+2986,37.773089,-122.396768,1,nearest_street,,I 280,San Francisco,CA,San Francisco County,94158
+2987,37.800868,-122.405763,1,rooftop,397,Union St,San Francisco,CA,San Francisco County,94133
+2988,37.774299,-122.39051,1,rooftop,1135,4th St,San Francisco,CA,San Francisco County,94158
+2989,37.728231,-122.459064,1,rooftop,130,Westwood Dr,San Francisco,CA,San Francisco County,94112
+2990,37.794527,-122.411364,1,nearest_street,1200,Mason St,San Francisco,CA,San Francisco County,94108
+2992,37.769526,-122.45071,1,nearest_street,600,Cole St,San Francisco,CA,San Francisco County,94117
+2994,37.796753,-122.43061,1,rooftop,2799,Laguna St,San Francisco,CA,San Francisco County,94123
+2995,37.750968,-122.412839,1,nearest_street,3150,25th St,San Francisco,CA,San Francisco County,94110
+2996,37.759977,-122.504983,1,rooftop,1423,45th Ave,San Francisco,CA,San Francisco County,94122
+2997,37.7784,-122.414342,1,rooftop,1201,Market St,San Francisco,CA,San Francisco County,94103
+2998,37.777028,-122.393184,1,rooftop,260,King St,San Francisco,CA,San Francisco County,94107
+3000,37.784431,-122.396488,1,rooftop,77,Dow Pl,San Francisco,CA,San Francisco County,94107
+3002,37.7694,-122.3867,1,rooftop,550,Terry A Francois Blvd,San Francisco,CA,San Francisco County,94158
+3004,37.71764,-122.443932,1,rooftop,150,Niagara Ave,San Francisco,CA,San Francisco County,94112
+3005,37.793112,-122.424572,1,rooftop,2020,Franklin St,San Francisco,CA,San Francisco County,94109
+3007,37.725072,-122.458194,1,nearest_street,100,Southwood Dr,San Francisco,CA,San Francisco County,94112
+3010,37.787996,-122.393597,1,nearest_street,355,Folsom St,San Francisco,CA,San Francisco County,94105
+3011,37.630623,-122.428484,1,rooftop,207,Boardwalk Ln,San Bruno,CA,San Mateo County,94066
+3012,37.758794,-122.416371,1,rooftop,3367,20th St,San Francisco,CA,San Francisco County,94110
+3013,37.717866,-122.440359,1,rooftop,33,Seneca Ave,San Francisco,CA,San Francisco County,94112
