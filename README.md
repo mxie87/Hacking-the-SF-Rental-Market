@@ -1,3 +1,5 @@
+NOTE: please use nbviewer to view jupyter notebook files if it does not load. Simply copy the link to the jupyter notebook file, go to this website: https://nbviewer.jupyter.org/ and paste into the box. 
+
 Project Goals:
 - Determine key parameters/features of home rentals that dictates it's rental price in the city of San Francisco. 
 - Highlight key features to inform and provide guidelines to budget-constrained renters.
