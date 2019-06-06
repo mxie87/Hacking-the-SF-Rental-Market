@@ -16,4 +16,4 @@ Craigslist is a popular website for renters as it contains a relatively large se
 
 Results:
 
-Mean squared error from a 5-fold cross validation resulted in a average of about $852 dollars. This is reasonable given that the average rent is about $3,638 dollars, and the data size was fairly small.
+Root mean squared error from a 5-fold cross validation resulted in a average of about $852 dollars. This is reasonable given that the average rent is about $3,638 dollars, the adjusted R-squared is about .55, and the data set was fairly small.
